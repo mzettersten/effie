@@ -1,0 +1,735 @@
+S.Experiment.Name = 'Effie';
+S.Experiment.Phases(1).Name = 'PreExposure';
+S.Experiment.Phases(1).ItemOrder = 1;
+S.Experiment.Phases(1).Repetitions = 1;
+S.Experiment.Phases(1).PhaseEnd = 'Fixed';
+S.Experiment.Phases(1).TimeLimit = 60;
+S.Experiment.Phases(1).MeasureA = 1;
+S.Experiment.Phases(1).GroupA = 1;
+S.Experiment.Phases(1).nA = 5;
+S.Experiment.Phases(1).MeasureB = 1;
+S.Experiment.Phases(1).GroupB = 1;
+S.Experiment.Phases(1).nB = 5;
+S.Experiment.Phases(1).Multiplier = 0;
+S.Experiment.Phases(1).Operator = 1;
+S.Experiment.Phases(1).Scalar = 0;
+S.Experiment.Phases(1).IgnoreFailed = 1;
+S.Experiment.Phases(1).Items.Name = 'Movie';
+S.Experiment.Phases(1).Items.RepeatOnFail = 1;
+S.Experiment.Phases(1).Items.RepeatsAllowed = 1;
+S.Experiment.Phases(1).Items.Events.Name = 'clouds';
+S.Experiment.Phases(1).Items.Events.StimulusFilename = 'C:\Experiment\Stimuli\Effie\AGs\CloudsFam.mov';
+S.Experiment.Phases(1).Items.Events.Loop = 1;
+S.Experiment.Phases(1).Items.Events.OutputLocationType = 1;
+S.Experiment.Phases(1).Items.Events.OutputLocation = 3;
+S.Experiment.Phases(1).Items.Events.RelatedEvent = 'clouds';
+S.Experiment.Phases(1).Items.Events.ExpressionID = [1 2];
+S.Experiment.Phases(1).Items.Events.ObjectA = {
+                                               'CurrentTrial'
+                                               'clouds'
+                                               }';
+S.Experiment.Phases(1).Items.Events.ObjectB = {
+                                               'CurrentTrial'
+                                               'CurrentTrial'
+                                               }';
+S.Experiment.Phases(1).Items.Events.StartCondition = 'e1';
+S.Experiment.Phases(1).Items.Events.StopCondition = 'e2';
+S.Experiment.Phases(1).Items.Events.FailCondition = '';
+S.Experiment.Phases(1).Items.Events.RandBalance = 1;
+S.Experiment.Phases(1).Items.Events.RandID = '';
+S.Experiment.Phases(1).Items.Events.StopTrialCondition = '';
+S.Experiment.Phases(1).Items.Events.EventTypeA = [1 2];
+S.Experiment.Phases(1).Items.Events.EventOperator = [1 1];
+S.Experiment.Phases(1).Items.Events.Multiplier = [0 0];
+S.Experiment.Phases(1).Items.Events.EventTypeB = [1 1];
+S.Experiment.Phases(1).Items.Events.RelOperator = [1 1];
+S.Experiment.Phases(1).Items.Events.EventScalar = [0 60];
+S.Experiment.Phases(2).Name = 'Training';
+S.Experiment.Phases(2).ItemOrder = 1;
+S.Experiment.Phases(2).Repetitions = 5;
+S.Experiment.Phases(2).PhaseEnd = 'Fixed';
+S.Experiment.Phases(2).TimeLimit = 60;
+S.Experiment.Phases(2).MeasureA = 1;
+S.Experiment.Phases(2).GroupA = 1;
+S.Experiment.Phases(2).nA = 5;
+S.Experiment.Phases(2).MeasureB = 1;
+S.Experiment.Phases(2).GroupB = 1;
+S.Experiment.Phases(2).nB = 5;
+S.Experiment.Phases(2).Multiplier = 0;
+S.Experiment.Phases(2).Operator = 1;
+S.Experiment.Phases(2).Scalar = 0;
+S.Experiment.Phases(2).IgnoreFailed = 1;
+S.Experiment.Phases(2).Items(1).Name = 'Training Item';
+S.Experiment.Phases(2).Items(1).RepeatOnFail = 1;
+S.Experiment.Phases(2).Items(1).RepeatsAllowed = 1;
+S.Experiment.Phases(2).Items(1).Events(1).Name = 'Center Stimulus';
+S.Experiment.Phases(2).Items(1).Events(1).StimulusFilename = 'C:\Experiment\Stimuli\Effie\AGs\pinwheel.mov';
+S.Experiment.Phases(2).Items(1).Events(1).Loop = 1;
+S.Experiment.Phases(2).Items(1).Events(1).OutputLocationType = 1;
+S.Experiment.Phases(2).Items(1).Events(1).OutputLocation = 3;
+S.Experiment.Phases(2).Items(1).Events(1).RelatedEvent = 'Center Stimulus';
+S.Experiment.Phases(2).Items(1).Events(1).ExpressionID = [1 2 3];
+S.Experiment.Phases(2).Items(1).Events(1).ObjectA = {
+                                                     'CurrentTrial'
+                                                     'OL_Center Advance'
+                                                     'OL_Center Advance'
+                                                     }';
+S.Experiment.Phases(2).Items(1).Events(1).ObjectB = {
+                                                     'CurrentTrial'
+                                                     'CurrentTrial'
+                                                     'CurrentTrial'
+                                                     }';
+S.Experiment.Phases(2).Items(1).Events(1).StartCondition = 'e1';
+S.Experiment.Phases(2).Items(1).Events(1).StopCondition = 'e3';
+S.Experiment.Phases(2).Items(1).Events(1).FailCondition = '';
+S.Experiment.Phases(2).Items(1).Events(1).RandBalance = 1;
+S.Experiment.Phases(2).Items(1).Events(1).RandID = '';
+S.Experiment.Phases(2).Items(1).Events(1).StopTrialCondition = '';
+S.Experiment.Phases(2).Items(1).Events(1).EventTypeA = [1 4 4];
+S.Experiment.Phases(2).Items(1).Events(1).EventOperator = [1 1 1];
+S.Experiment.Phases(2).Items(1).Events(1).Multiplier = [0 0 0];
+S.Experiment.Phases(2).Items(1).Events(1).EventTypeB = [1 1 1];
+S.Experiment.Phases(2).Items(1).Events(1).RelOperator = [1 1 1];
+S.Experiment.Phases(2).Items(1).Events(1).EventScalar = [0 0 0.5];
+S.Experiment.Phases(2).Items(1).Events(2).Name = 'Side Stimulus';
+S.Experiment.Phases(2).Items(1).Events(2).StimulusFilename = 'C:\Experiment\Stimuli\Effie\AGs\pinwheel.mov';
+S.Experiment.Phases(2).Items(1).Events(2).Loop = 1;
+S.Experiment.Phases(2).Items(1).Events(2).OutputLocationType = 2;
+S.Experiment.Phases(2).Items(1).Events(2).OutputLocation = [1 2];
+S.Experiment.Phases(2).Items(1).Events(2).RelatedEvent = 'Center Stimulus';
+S.Experiment.Phases(2).Items(1).Events(2).ExpressionID = [1 2];
+S.Experiment.Phases(2).Items(1).Events(2).ObjectA = {
+                                                     'OL_Center Advance'
+                                                     'Correct'
+                                                     }';
+S.Experiment.Phases(2).Items(1).Events(2).ObjectB = {
+                                                     'CurrentTrial'
+                                                     'CurrentTrial'
+                                                     }';
+S.Experiment.Phases(2).Items(1).Events(2).StartCondition = 'e1';
+S.Experiment.Phases(2).Items(1).Events(2).StopCondition = 'e2';
+S.Experiment.Phases(2).Items(1).Events(2).FailCondition = '';
+S.Experiment.Phases(2).Items(1).Events(2).RandBalance = 2;
+S.Experiment.Phases(2).Items(1).Events(2).RandID = 'a';
+S.Experiment.Phases(2).Items(1).Events(2).StopTrialCondition = [];
+S.Experiment.Phases(2).Items(1).Events(2).EventTypeA = [4 7];
+S.Experiment.Phases(2).Items(1).Events(2).EventOperator = [1 1];
+S.Experiment.Phases(2).Items(1).Events(2).Multiplier = [0 0];
+S.Experiment.Phases(2).Items(1).Events(2).EventTypeB = [1 1];
+S.Experiment.Phases(2).Items(1).Events(2).RelOperator = [1 1];
+S.Experiment.Phases(2).Items(1).Events(2).EventScalar = [0 2];
+S.Experiment.Phases(2).Items(2).Name = 'Training Item';
+S.Experiment.Phases(2).Items(2).RepeatOnFail = 1;
+S.Experiment.Phases(2).Items(2).RepeatsAllowed = 1;
+S.Experiment.Phases(2).Items(2).Events(1).Name = 'Center Stimulus';
+S.Experiment.Phases(2).Items(2).Events(1).StimulusFilename = 'C:\Experiment\Stimuli\Effie\AGs\pinwheel.mov';
+S.Experiment.Phases(2).Items(2).Events(1).Loop = 1;
+S.Experiment.Phases(2).Items(2).Events(1).OutputLocationType = 1;
+S.Experiment.Phases(2).Items(2).Events(1).OutputLocation = 3;
+S.Experiment.Phases(2).Items(2).Events(1).RelatedEvent = 'Center Stimulus';
+S.Experiment.Phases(2).Items(2).Events(1).ExpressionID = [1 2 3];
+S.Experiment.Phases(2).Items(2).Events(1).ObjectA = {
+                                                     'CurrentTrial'
+                                                     'OL_Center Advance'
+                                                     'OL_Center Advance'
+                                                     }';
+S.Experiment.Phases(2).Items(2).Events(1).ObjectB = {
+                                                     'CurrentTrial'
+                                                     'CurrentTrial'
+                                                     'CurrentTrial'
+                                                     }';
+S.Experiment.Phases(2).Items(2).Events(1).StartCondition = 'e1';
+S.Experiment.Phases(2).Items(2).Events(1).StopCondition = 'e3';
+S.Experiment.Phases(2).Items(2).Events(1).FailCondition = '';
+S.Experiment.Phases(2).Items(2).Events(1).RandBalance = 1;
+S.Experiment.Phases(2).Items(2).Events(1).RandID = '';
+S.Experiment.Phases(2).Items(2).Events(1).StopTrialCondition = '';
+S.Experiment.Phases(2).Items(2).Events(1).EventTypeA = [1 4 4];
+S.Experiment.Phases(2).Items(2).Events(1).EventOperator = [1 1 1];
+S.Experiment.Phases(2).Items(2).Events(1).Multiplier = [0 0 0];
+S.Experiment.Phases(2).Items(2).Events(1).EventTypeB = [1 1 1];
+S.Experiment.Phases(2).Items(2).Events(1).RelOperator = [1 1 1];
+S.Experiment.Phases(2).Items(2).Events(1).EventScalar = [0 0 0.5];
+S.Experiment.Phases(2).Items(2).Events(2).Name = 'Side Stimulus';
+S.Experiment.Phases(2).Items(2).Events(2).StimulusFilename = 'C:\Experiment\Stimuli\Effie\AGs\pinwheel.mov';
+S.Experiment.Phases(2).Items(2).Events(2).Loop = 1;
+S.Experiment.Phases(2).Items(2).Events(2).OutputLocationType = 2;
+S.Experiment.Phases(2).Items(2).Events(2).OutputLocation = [1 2];
+S.Experiment.Phases(2).Items(2).Events(2).RelatedEvent = 'Center Stimulus';
+S.Experiment.Phases(2).Items(2).Events(2).ExpressionID = [1 2];
+S.Experiment.Phases(2).Items(2).Events(2).ObjectA = {
+                                                     'OL_Center Advance'
+                                                     'Correct'
+                                                     }';
+S.Experiment.Phases(2).Items(2).Events(2).ObjectB = {
+                                                     'CurrentTrial'
+                                                     'CurrentTrial'
+                                                     }';
+S.Experiment.Phases(2).Items(2).Events(2).StartCondition = 'e1';
+S.Experiment.Phases(2).Items(2).Events(2).StopCondition = 'e2';
+S.Experiment.Phases(2).Items(2).Events(2).FailCondition = '';
+S.Experiment.Phases(2).Items(2).Events(2).RandBalance = 2;
+S.Experiment.Phases(2).Items(2).Events(2).RandID = 'a';
+S.Experiment.Phases(2).Items(2).Events(2).StopTrialCondition = [];
+S.Experiment.Phases(2).Items(2).Events(2).EventTypeA = [4 7];
+S.Experiment.Phases(2).Items(2).Events(2).EventOperator = [1 1];
+S.Experiment.Phases(2).Items(2).Events(2).Multiplier = [0 0];
+S.Experiment.Phases(2).Items(2).Events(2).EventTypeB = [1 1];
+S.Experiment.Phases(2).Items(2).Events(2).RelOperator = [1 1];
+S.Experiment.Phases(2).Items(2).Events(2).EventScalar = [0 2];
+S.Experiment.Phases(2).Items(3).Name = 'Training Item';
+S.Experiment.Phases(2).Items(3).RepeatOnFail = 1;
+S.Experiment.Phases(2).Items(3).RepeatsAllowed = 1;
+S.Experiment.Phases(2).Items(3).Events(1).Name = 'Center Stimulus';
+S.Experiment.Phases(2).Items(3).Events(1).StimulusFilename = 'C:\Experiment\Stimuli\Effie\AGs\pinwheel.mov';
+S.Experiment.Phases(2).Items(3).Events(1).Loop = 1;
+S.Experiment.Phases(2).Items(3).Events(1).OutputLocationType = 1;
+S.Experiment.Phases(2).Items(3).Events(1).OutputLocation = 3;
+S.Experiment.Phases(2).Items(3).Events(1).RelatedEvent = 'Center Stimulus';
+S.Experiment.Phases(2).Items(3).Events(1).ExpressionID = [1 2 3];
+S.Experiment.Phases(2).Items(3).Events(1).ObjectA = {
+                                                     'CurrentTrial'
+                                                     'OL_Center Advance'
+                                                     'OL_Center Advance'
+                                                     }';
+S.Experiment.Phases(2).Items(3).Events(1).ObjectB = {
+                                                     'CurrentTrial'
+                                                     'CurrentTrial'
+                                                     'CurrentTrial'
+                                                     }';
+S.Experiment.Phases(2).Items(3).Events(1).StartCondition = 'e1';
+S.Experiment.Phases(2).Items(3).Events(1).StopCondition = 'e3';
+S.Experiment.Phases(2).Items(3).Events(1).FailCondition = '';
+S.Experiment.Phases(2).Items(3).Events(1).RandBalance = 1;
+S.Experiment.Phases(2).Items(3).Events(1).RandID = '';
+S.Experiment.Phases(2).Items(3).Events(1).StopTrialCondition = '';
+S.Experiment.Phases(2).Items(3).Events(1).EventTypeA = [1 4 4];
+S.Experiment.Phases(2).Items(3).Events(1).EventOperator = [1 1 1];
+S.Experiment.Phases(2).Items(3).Events(1).Multiplier = [0 0 0];
+S.Experiment.Phases(2).Items(3).Events(1).EventTypeB = [1 1 1];
+S.Experiment.Phases(2).Items(3).Events(1).RelOperator = [1 1 1];
+S.Experiment.Phases(2).Items(3).Events(1).EventScalar = [0 0 0.5];
+S.Experiment.Phases(2).Items(3).Events(2).Name = 'Side Stimulus';
+S.Experiment.Phases(2).Items(3).Events(2).StimulusFilename = 'C:\Experiment\Stimuli\Effie\AGs\pinwheel.mov';
+S.Experiment.Phases(2).Items(3).Events(2).Loop = 1;
+S.Experiment.Phases(2).Items(3).Events(2).OutputLocationType = 2;
+S.Experiment.Phases(2).Items(3).Events(2).OutputLocation = [1 2];
+S.Experiment.Phases(2).Items(3).Events(2).RelatedEvent = 'Center Stimulus';
+S.Experiment.Phases(2).Items(3).Events(2).ExpressionID = [1 2];
+S.Experiment.Phases(2).Items(3).Events(2).ObjectA = {
+                                                     'OL_Center Advance'
+                                                     'Correct'
+                                                     }';
+S.Experiment.Phases(2).Items(3).Events(2).ObjectB = {
+                                                     'CurrentTrial'
+                                                     'CurrentTrial'
+                                                     }';
+S.Experiment.Phases(2).Items(3).Events(2).StartCondition = 'e1';
+S.Experiment.Phases(2).Items(3).Events(2).StopCondition = 'e2';
+S.Experiment.Phases(2).Items(3).Events(2).FailCondition = '';
+S.Experiment.Phases(2).Items(3).Events(2).RandBalance = 2;
+S.Experiment.Phases(2).Items(3).Events(2).RandID = 'a';
+S.Experiment.Phases(2).Items(3).Events(2).StopTrialCondition = [];
+S.Experiment.Phases(2).Items(3).Events(2).EventTypeA = [4 7];
+S.Experiment.Phases(2).Items(3).Events(2).EventOperator = [1 1];
+S.Experiment.Phases(2).Items(3).Events(2).Multiplier = [0 0];
+S.Experiment.Phases(2).Items(3).Events(2).EventTypeB = [1 1];
+S.Experiment.Phases(2).Items(3).Events(2).RelOperator = [1 1];
+S.Experiment.Phases(2).Items(3).Events(2).EventScalar = [0 2];
+S.Experiment.Phases(2).Items(4).Name = 'Training Item';
+S.Experiment.Phases(2).Items(4).RepeatOnFail = 1;
+S.Experiment.Phases(2).Items(4).RepeatsAllowed = 1;
+S.Experiment.Phases(2).Items(4).Events(1).Name = 'Center Stimulus';
+S.Experiment.Phases(2).Items(4).Events(1).StimulusFilename = 'C:\Experiment\Stimuli\Effie\AGs\pinwheel.mov';
+S.Experiment.Phases(2).Items(4).Events(1).Loop = 1;
+S.Experiment.Phases(2).Items(4).Events(1).OutputLocationType = 1;
+S.Experiment.Phases(2).Items(4).Events(1).OutputLocation = 3;
+S.Experiment.Phases(2).Items(4).Events(1).RelatedEvent = 'Center Stimulus';
+S.Experiment.Phases(2).Items(4).Events(1).ExpressionID = [1 2 3];
+S.Experiment.Phases(2).Items(4).Events(1).ObjectA = {
+                                                     'CurrentTrial'
+                                                     'OL_Center Advance'
+                                                     'OL_Center Advance'
+                                                     }';
+S.Experiment.Phases(2).Items(4).Events(1).ObjectB = {
+                                                     'CurrentTrial'
+                                                     'CurrentTrial'
+                                                     'CurrentTrial'
+                                                     }';
+S.Experiment.Phases(2).Items(4).Events(1).StartCondition = 'e1';
+S.Experiment.Phases(2).Items(4).Events(1).StopCondition = 'e3';
+S.Experiment.Phases(2).Items(4).Events(1).FailCondition = '';
+S.Experiment.Phases(2).Items(4).Events(1).RandBalance = 1;
+S.Experiment.Phases(2).Items(4).Events(1).RandID = '';
+S.Experiment.Phases(2).Items(4).Events(1).StopTrialCondition = '';
+S.Experiment.Phases(2).Items(4).Events(1).EventTypeA = [1 4 4];
+S.Experiment.Phases(2).Items(4).Events(1).EventOperator = [1 1 1];
+S.Experiment.Phases(2).Items(4).Events(1).Multiplier = [0 0 0];
+S.Experiment.Phases(2).Items(4).Events(1).EventTypeB = [1 1 1];
+S.Experiment.Phases(2).Items(4).Events(1).RelOperator = [1 1 1];
+S.Experiment.Phases(2).Items(4).Events(1).EventScalar = [0 0 0.5];
+S.Experiment.Phases(2).Items(4).Events(2).Name = 'Side Stimulus';
+S.Experiment.Phases(2).Items(4).Events(2).StimulusFilename = 'C:\Experiment\Stimuli\Effie\AGs\pinwheel.mov';
+S.Experiment.Phases(2).Items(4).Events(2).Loop = 1;
+S.Experiment.Phases(2).Items(4).Events(2).OutputLocationType = 2;
+S.Experiment.Phases(2).Items(4).Events(2).OutputLocation = [1 2];
+S.Experiment.Phases(2).Items(4).Events(2).RelatedEvent = 'Center Stimulus';
+S.Experiment.Phases(2).Items(4).Events(2).ExpressionID = [1 2];
+S.Experiment.Phases(2).Items(4).Events(2).ObjectA = {
+                                                     'OL_Center Advance'
+                                                     'Correct'
+                                                     }';
+S.Experiment.Phases(2).Items(4).Events(2).ObjectB = {
+                                                     'CurrentTrial'
+                                                     'CurrentTrial'
+                                                     }';
+S.Experiment.Phases(2).Items(4).Events(2).StartCondition = 'e1';
+S.Experiment.Phases(2).Items(4).Events(2).StopCondition = 'e2';
+S.Experiment.Phases(2).Items(4).Events(2).FailCondition = '';
+S.Experiment.Phases(2).Items(4).Events(2).RandBalance = 2;
+S.Experiment.Phases(2).Items(4).Events(2).RandID = 'a';
+S.Experiment.Phases(2).Items(4).Events(2).StopTrialCondition = [];
+S.Experiment.Phases(2).Items(4).Events(2).EventTypeA = [4 7];
+S.Experiment.Phases(2).Items(4).Events(2).EventOperator = [1 1];
+S.Experiment.Phases(2).Items(4).Events(2).Multiplier = [0 0];
+S.Experiment.Phases(2).Items(4).Events(2).EventTypeB = [1 1];
+S.Experiment.Phases(2).Items(4).Events(2).RelOperator = [1 1];
+S.Experiment.Phases(2).Items(4).Events(2).EventScalar = [0 2];
+S.Experiment.Phases(3).Name = 'Testing';
+S.Experiment.Phases(3).ItemOrder = 4;
+S.Experiment.Phases(3).Repetitions = 3;
+S.Experiment.Phases(3).PhaseEnd = 'Fixed';
+S.Experiment.Phases(3).TimeLimit = 60;
+S.Experiment.Phases(3).MeasureA = 1;
+S.Experiment.Phases(3).GroupA = 1;
+S.Experiment.Phases(3).nA = 5;
+S.Experiment.Phases(3).MeasureB = 1;
+S.Experiment.Phases(3).GroupB = 1;
+S.Experiment.Phases(3).nB = 5;
+S.Experiment.Phases(3).Multiplier = 0;
+S.Experiment.Phases(3).Operator = 1;
+S.Experiment.Phases(3).Scalar = 0;
+S.Experiment.Phases(3).IgnoreFailed = 1;
+S.Experiment.Phases(3).Items(1).Name = 'Kita';
+S.Experiment.Phases(3).Items(1).RepeatOnFail = 3;
+S.Experiment.Phases(3).Items(1).RepeatsAllowed = 1;
+S.Experiment.Phases(3).Items(1).Events(1).Name = 'Center Stimulus';
+S.Experiment.Phases(3).Items(1).Events(1).StimulusFilename = 'C:\Experiment\Stimuli\Effie\AGs\pinwheel.mov';
+S.Experiment.Phases(3).Items(1).Events(1).Loop = 1;
+S.Experiment.Phases(3).Items(1).Events(1).OutputLocationType = 1;
+S.Experiment.Phases(3).Items(1).Events(1).OutputLocation = 3;
+S.Experiment.Phases(3).Items(1).Events(1).RelatedEvent = 'Center Stimulus';
+S.Experiment.Phases(3).Items(1).Events(1).ExpressionID = [1 2];
+S.Experiment.Phases(3).Items(1).Events(1).ObjectA = {
+                                                     'CurrentTrial'
+                                                     'OL_Center Advance'
+                                                     }';
+S.Experiment.Phases(3).Items(1).Events(1).ObjectB = {
+                                                     'CurrentTrial'
+                                                     'CurrentTrial'
+                                                     }';
+S.Experiment.Phases(3).Items(1).Events(1).StartCondition = 'e1';
+S.Experiment.Phases(3).Items(1).Events(1).StopCondition = 'e2';
+S.Experiment.Phases(3).Items(1).Events(1).FailCondition = '';
+S.Experiment.Phases(3).Items(1).Events(1).RandBalance = 1;
+S.Experiment.Phases(3).Items(1).Events(1).RandID = '';
+S.Experiment.Phases(3).Items(1).Events(1).StopTrialCondition = '';
+S.Experiment.Phases(3).Items(1).Events(1).EventTypeA = [1 4];
+S.Experiment.Phases(3).Items(1).Events(1).EventOperator = [1 1];
+S.Experiment.Phases(3).Items(1).Events(1).Multiplier = [0 0];
+S.Experiment.Phases(3).Items(1).Events(1).EventTypeB = [1 1];
+S.Experiment.Phases(3).Items(1).Events(1).RelOperator = [1 1];
+S.Experiment.Phases(3).Items(1).Events(1).EventScalar = [0 0.5];
+S.Experiment.Phases(3).Items(1).Events(2).Name = 'Side Stimulus';
+S.Experiment.Phases(3).Items(1).Events(2).StimulusFilename = 'C:\Experiment\Stimuli\Effie\AGs\pinwheel.mov';
+S.Experiment.Phases(3).Items(1).Events(2).Loop = 1;
+S.Experiment.Phases(3).Items(1).Events(2).OutputLocationType = 2;
+S.Experiment.Phases(3).Items(1).Events(2).OutputLocation = [1 2];
+S.Experiment.Phases(3).Items(1).Events(2).RelatedEvent = 'Center Stimulus';
+S.Experiment.Phases(3).Items(1).Events(2).ExpressionID = [1 2 3 4];
+S.Experiment.Phases(3).Items(1).Events(2).ObjectA = {
+                                                     'OL_Center Advance'
+                                                     'Side Sound'
+                                                     'Correct'
+                                                     'Correct'
+                                                     }';
+S.Experiment.Phases(3).Items(1).Events(2).ObjectB = {
+                                                     'CurrentTrial'
+                                                     'CurrentTrial'
+                                                     'CurrentTrial'
+                                                     'CurrentTrial'
+                                                     }';
+S.Experiment.Phases(3).Items(1).Events(2).StartCondition = 'e1';
+S.Experiment.Phases(3).Items(1).Events(2).StopCondition = 'e2 | e3';
+S.Experiment.Phases(3).Items(1).Events(2).FailCondition = 'e3 & e4';
+S.Experiment.Phases(3).Items(1).Events(2).RandBalance = 2;
+S.Experiment.Phases(3).Items(1).Events(2).RandID = 'b';
+S.Experiment.Phases(3).Items(1).Events(2).StopTrialCondition = [];
+S.Experiment.Phases(3).Items(1).Events(2).EventTypeA = [4 2 7 6];
+S.Experiment.Phases(3).Items(1).Events(2).EventOperator = [1 1 1 1];
+S.Experiment.Phases(3).Items(1).Events(2).Multiplier = [0 0 0 0];
+S.Experiment.Phases(3).Items(1).Events(2).EventTypeB = [1 1 1 1];
+S.Experiment.Phases(3).Items(1).Events(2).RelOperator = [1 1 1 2];
+S.Experiment.Phases(3).Items(1).Events(2).EventScalar = [0 20 2 2];
+S.Experiment.Phases(3).Items(1).Events(3).Name = 'Side Sound';
+S.Experiment.Phases(3).Items(1).Events(3).StimulusFilename = 'C:\Experiment\Stimuli\Effie\Audio\kita_test.wav';
+S.Experiment.Phases(3).Items(1).Events(3).Loop = 0;
+S.Experiment.Phases(3).Items(1).Events(3).OutputLocationType = 3;
+S.Experiment.Phases(3).Items(1).Events(3).OutputLocation = [1 2];
+S.Experiment.Phases(3).Items(1).Events(3).RelatedEvent = 'Side Stimulus';
+S.Experiment.Phases(3).Items(1).Events(3).ExpressionID = [1 2];
+S.Experiment.Phases(3).Items(1).Events(3).ObjectA = {
+                                                     'Correct'
+                                                     'Side Stimulus'
+                                                     }';
+S.Experiment.Phases(3).Items(1).Events(3).ObjectB = {
+                                                     'CurrentTrial'
+                                                     'CurrentTrial'
+                                                     }';
+S.Experiment.Phases(3).Items(1).Events(3).StartCondition = 'e1';
+S.Experiment.Phases(3).Items(1).Events(3).StopCondition = 'e2';
+S.Experiment.Phases(3).Items(1).Events(3).FailCondition = '';
+S.Experiment.Phases(3).Items(1).Events(3).RandBalance = 1;
+S.Experiment.Phases(3).Items(1).Events(3).RandID = [];
+S.Experiment.Phases(3).Items(1).Events(3).StopTrialCondition = [];
+S.Experiment.Phases(3).Items(1).Events(3).EventTypeA = [4 3];
+S.Experiment.Phases(3).Items(1).Events(3).EventOperator = [1 1];
+S.Experiment.Phases(3).Items(1).Events(3).Multiplier = [0 0];
+S.Experiment.Phases(3).Items(1).Events(3).EventTypeB = [1 1];
+S.Experiment.Phases(3).Items(1).Events(3).RelOperator = [1 1];
+S.Experiment.Phases(3).Items(1).Events(3).EventScalar = [0 0];
+S.Experiment.Phases(3).Items(2).Name = 'Sarel';
+S.Experiment.Phases(3).Items(2).RepeatOnFail = 3;
+S.Experiment.Phases(3).Items(2).RepeatsAllowed = 1;
+S.Experiment.Phases(3).Items(2).Events(1).Name = 'Center Stimulus';
+S.Experiment.Phases(3).Items(2).Events(1).StimulusFilename = 'C:\Experiment\Stimuli\Effie\AGs\pinwheel.mov';
+S.Experiment.Phases(3).Items(2).Events(1).Loop = 1;
+S.Experiment.Phases(3).Items(2).Events(1).OutputLocationType = 1;
+S.Experiment.Phases(3).Items(2).Events(1).OutputLocation = 3;
+S.Experiment.Phases(3).Items(2).Events(1).RelatedEvent = 'Center Stimulus';
+S.Experiment.Phases(3).Items(2).Events(1).ExpressionID = [1 2];
+S.Experiment.Phases(3).Items(2).Events(1).ObjectA = {
+                                                     'CurrentTrial'
+                                                     'OL_Center Advance'
+                                                     }';
+S.Experiment.Phases(3).Items(2).Events(1).ObjectB = {
+                                                     'CurrentTrial'
+                                                     'CurrentTrial'
+                                                     }';
+S.Experiment.Phases(3).Items(2).Events(1).StartCondition = 'e1';
+S.Experiment.Phases(3).Items(2).Events(1).StopCondition = 'e2';
+S.Experiment.Phases(3).Items(2).Events(1).FailCondition = '';
+S.Experiment.Phases(3).Items(2).Events(1).RandBalance = 1;
+S.Experiment.Phases(3).Items(2).Events(1).RandID = '';
+S.Experiment.Phases(3).Items(2).Events(1).StopTrialCondition = '';
+S.Experiment.Phases(3).Items(2).Events(1).EventTypeA = [1 4];
+S.Experiment.Phases(3).Items(2).Events(1).EventOperator = [1 1];
+S.Experiment.Phases(3).Items(2).Events(1).Multiplier = [0 0];
+S.Experiment.Phases(3).Items(2).Events(1).EventTypeB = [1 1];
+S.Experiment.Phases(3).Items(2).Events(1).RelOperator = [1 1];
+S.Experiment.Phases(3).Items(2).Events(1).EventScalar = [0 0.5];
+S.Experiment.Phases(3).Items(2).Events(2).Name = 'Side Stimulus';
+S.Experiment.Phases(3).Items(2).Events(2).StimulusFilename = 'C:\Experiment\Stimuli\Effie\AGs\pinwheel.mov';
+S.Experiment.Phases(3).Items(2).Events(2).Loop = 1;
+S.Experiment.Phases(3).Items(2).Events(2).OutputLocationType = 2;
+S.Experiment.Phases(3).Items(2).Events(2).OutputLocation = [1 2];
+S.Experiment.Phases(3).Items(2).Events(2).RelatedEvent = 'Center Stimulus';
+S.Experiment.Phases(3).Items(2).Events(2).ExpressionID = [1 2 3 4];
+S.Experiment.Phases(3).Items(2).Events(2).ObjectA = {
+                                                     'OL_Center Advance'
+                                                     'Side Sound'
+                                                     'Correct'
+                                                     'Correct'
+                                                     }';
+S.Experiment.Phases(3).Items(2).Events(2).ObjectB = {
+                                                     'CurrentTrial'
+                                                     'CurrentTrial'
+                                                     'CurrentTrial'
+                                                     'CurrentTrial'
+                                                     }';
+S.Experiment.Phases(3).Items(2).Events(2).StartCondition = 'e1';
+S.Experiment.Phases(3).Items(2).Events(2).StopCondition = 'e2 | e3';
+S.Experiment.Phases(3).Items(2).Events(2).FailCondition = 'e3 & e4';
+S.Experiment.Phases(3).Items(2).Events(2).RandBalance = 2;
+S.Experiment.Phases(3).Items(2).Events(2).RandID = 'b';
+S.Experiment.Phases(3).Items(2).Events(2).StopTrialCondition = [];
+S.Experiment.Phases(3).Items(2).Events(2).EventTypeA = [4 2 7 6];
+S.Experiment.Phases(3).Items(2).Events(2).EventOperator = [1 1 1 1];
+S.Experiment.Phases(3).Items(2).Events(2).Multiplier = [0 0 0 0];
+S.Experiment.Phases(3).Items(2).Events(2).EventTypeB = [1 1 1 1];
+S.Experiment.Phases(3).Items(2).Events(2).RelOperator = [1 1 1 2];
+S.Experiment.Phases(3).Items(2).Events(2).EventScalar = [0 20 2 2];
+S.Experiment.Phases(3).Items(2).Events(3).Name = 'Side Sound';
+S.Experiment.Phases(3).Items(2).Events(3).StimulusFilename = 'C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav';
+S.Experiment.Phases(3).Items(2).Events(3).Loop = 0;
+S.Experiment.Phases(3).Items(2).Events(3).OutputLocationType = 3;
+S.Experiment.Phases(3).Items(2).Events(3).OutputLocation = [1 2];
+S.Experiment.Phases(3).Items(2).Events(3).RelatedEvent = 'Side Stimulus';
+S.Experiment.Phases(3).Items(2).Events(3).ExpressionID = [1 2];
+S.Experiment.Phases(3).Items(2).Events(3).ObjectA = {
+                                                     'Correct'
+                                                     'Side Stimulus'
+                                                     }';
+S.Experiment.Phases(3).Items(2).Events(3).ObjectB = {
+                                                     'CurrentTrial'
+                                                     'CurrentTrial'
+                                                     }';
+S.Experiment.Phases(3).Items(2).Events(3).StartCondition = 'e1';
+S.Experiment.Phases(3).Items(2).Events(3).StopCondition = 'e2';
+S.Experiment.Phases(3).Items(2).Events(3).FailCondition = '';
+S.Experiment.Phases(3).Items(2).Events(3).RandBalance = 1;
+S.Experiment.Phases(3).Items(2).Events(3).RandID = [];
+S.Experiment.Phases(3).Items(2).Events(3).StopTrialCondition = [];
+S.Experiment.Phases(3).Items(2).Events(3).EventTypeA = [4 3];
+S.Experiment.Phases(3).Items(2).Events(3).EventOperator = [1 1];
+S.Experiment.Phases(3).Items(2).Events(3).Multiplier = [0 0];
+S.Experiment.Phases(3).Items(2).Events(3).EventTypeB = [1 1];
+S.Experiment.Phases(3).Items(2).Events(3).RelOperator = [1 1];
+S.Experiment.Phases(3).Items(2).Events(3).EventScalar = [0 0];
+S.Experiment.Phases(3).Items(3).Name = 'Boskot';
+S.Experiment.Phases(3).Items(3).RepeatOnFail = 3;
+S.Experiment.Phases(3).Items(3).RepeatsAllowed = 1;
+S.Experiment.Phases(3).Items(3).Events(1).Name = 'Center Stimulus';
+S.Experiment.Phases(3).Items(3).Events(1).StimulusFilename = 'C:\Experiment\Stimuli\Effie\AGs\pinwheel.mov';
+S.Experiment.Phases(3).Items(3).Events(1).Loop = 1;
+S.Experiment.Phases(3).Items(3).Events(1).OutputLocationType = 1;
+S.Experiment.Phases(3).Items(3).Events(1).OutputLocation = 3;
+S.Experiment.Phases(3).Items(3).Events(1).RelatedEvent = 'Center Stimulus';
+S.Experiment.Phases(3).Items(3).Events(1).ExpressionID = [1 2];
+S.Experiment.Phases(3).Items(3).Events(1).ObjectA = {
+                                                     'CurrentTrial'
+                                                     'OL_Center Advance'
+                                                     }';
+S.Experiment.Phases(3).Items(3).Events(1).ObjectB = {
+                                                     'CurrentTrial'
+                                                     'CurrentTrial'
+                                                     }';
+S.Experiment.Phases(3).Items(3).Events(1).StartCondition = 'e1';
+S.Experiment.Phases(3).Items(3).Events(1).StopCondition = 'e2';
+S.Experiment.Phases(3).Items(3).Events(1).FailCondition = '';
+S.Experiment.Phases(3).Items(3).Events(1).RandBalance = 1;
+S.Experiment.Phases(3).Items(3).Events(1).RandID = '';
+S.Experiment.Phases(3).Items(3).Events(1).StopTrialCondition = '';
+S.Experiment.Phases(3).Items(3).Events(1).EventTypeA = [1 4];
+S.Experiment.Phases(3).Items(3).Events(1).EventOperator = [1 1];
+S.Experiment.Phases(3).Items(3).Events(1).Multiplier = [0 0];
+S.Experiment.Phases(3).Items(3).Events(1).EventTypeB = [1 1];
+S.Experiment.Phases(3).Items(3).Events(1).RelOperator = [1 1];
+S.Experiment.Phases(3).Items(3).Events(1).EventScalar = [0 0.5];
+S.Experiment.Phases(3).Items(3).Events(2).Name = 'Side Stimulus';
+S.Experiment.Phases(3).Items(3).Events(2).StimulusFilename = 'C:\Experiment\Stimuli\Effie\AGs\pinwheel.mov';
+S.Experiment.Phases(3).Items(3).Events(2).Loop = 1;
+S.Experiment.Phases(3).Items(3).Events(2).OutputLocationType = 2;
+S.Experiment.Phases(3).Items(3).Events(2).OutputLocation = [1 2];
+S.Experiment.Phases(3).Items(3).Events(2).RelatedEvent = 'Center Stimulus';
+S.Experiment.Phases(3).Items(3).Events(2).ExpressionID = [1 2 3 4];
+S.Experiment.Phases(3).Items(3).Events(2).ObjectA = {
+                                                     'OL_Center Advance'
+                                                     'Side Sound'
+                                                     'Correct'
+                                                     'Correct'
+                                                     }';
+S.Experiment.Phases(3).Items(3).Events(2).ObjectB = {
+                                                     'CurrentTrial'
+                                                     'CurrentTrial'
+                                                     'CurrentTrial'
+                                                     'CurrentTrial'
+                                                     }';
+S.Experiment.Phases(3).Items(3).Events(2).StartCondition = 'e1';
+S.Experiment.Phases(3).Items(3).Events(2).StopCondition = 'e2 | e3';
+S.Experiment.Phases(3).Items(3).Events(2).FailCondition = 'e3 & e4';
+S.Experiment.Phases(3).Items(3).Events(2).RandBalance = 2;
+S.Experiment.Phases(3).Items(3).Events(2).RandID = 'b';
+S.Experiment.Phases(3).Items(3).Events(2).StopTrialCondition = [];
+S.Experiment.Phases(3).Items(3).Events(2).EventTypeA = [4 2 7 6];
+S.Experiment.Phases(3).Items(3).Events(2).EventOperator = [1 1 1 1];
+S.Experiment.Phases(3).Items(3).Events(2).Multiplier = [0 0 0 0];
+S.Experiment.Phases(3).Items(3).Events(2).EventTypeB = [1 1 1 1];
+S.Experiment.Phases(3).Items(3).Events(2).RelOperator = [1 1 1 2];
+S.Experiment.Phases(3).Items(3).Events(2).EventScalar = [0 20 2 2];
+S.Experiment.Phases(3).Items(3).Events(3).Name = 'Side Sound';
+S.Experiment.Phases(3).Items(3).Events(3).StimulusFilename = 'C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav';
+S.Experiment.Phases(3).Items(3).Events(3).Loop = 0;
+S.Experiment.Phases(3).Items(3).Events(3).OutputLocationType = 3;
+S.Experiment.Phases(3).Items(3).Events(3).OutputLocation = [1 2];
+S.Experiment.Phases(3).Items(3).Events(3).RelatedEvent = 'Side Stimulus';
+S.Experiment.Phases(3).Items(3).Events(3).ExpressionID = [1 2];
+S.Experiment.Phases(3).Items(3).Events(3).ObjectA = {
+                                                     'Correct'
+                                                     'Side Stimulus'
+                                                     }';
+S.Experiment.Phases(3).Items(3).Events(3).ObjectB = {
+                                                     'CurrentTrial'
+                                                     'CurrentTrial'
+                                                     }';
+S.Experiment.Phases(3).Items(3).Events(3).StartCondition = 'e1';
+S.Experiment.Phases(3).Items(3).Events(3).StopCondition = 'e2';
+S.Experiment.Phases(3).Items(3).Events(3).FailCondition = '';
+S.Experiment.Phases(3).Items(3).Events(3).RandBalance = 1;
+S.Experiment.Phases(3).Items(3).Events(3).RandID = [];
+S.Experiment.Phases(3).Items(3).Events(3).StopTrialCondition = [];
+S.Experiment.Phases(3).Items(3).Events(3).EventTypeA = [4 3];
+S.Experiment.Phases(3).Items(3).Events(3).EventOperator = [1 1];
+S.Experiment.Phases(3).Items(3).Events(3).Multiplier = [0 0];
+S.Experiment.Phases(3).Items(3).Events(3).EventTypeB = [1 1];
+S.Experiment.Phases(3).Items(3).Events(3).RelOperator = [1 1];
+S.Experiment.Phases(3).Items(3).Events(3).EventScalar = [0 0];
+S.Experiment.Phases(3).Items(4).Name = 'Manu';
+S.Experiment.Phases(3).Items(4).RepeatOnFail = 3;
+S.Experiment.Phases(3).Items(4).RepeatsAllowed = 1;
+S.Experiment.Phases(3).Items(4).Events(1).Name = 'Center Stimulus';
+S.Experiment.Phases(3).Items(4).Events(1).StimulusFilename = 'C:\Experiment\Stimuli\Effie\AGs\pinwheel.mov';
+S.Experiment.Phases(3).Items(4).Events(1).Loop = 1;
+S.Experiment.Phases(3).Items(4).Events(1).OutputLocationType = 1;
+S.Experiment.Phases(3).Items(4).Events(1).OutputLocation = 3;
+S.Experiment.Phases(3).Items(4).Events(1).RelatedEvent = 'Center Stimulus';
+S.Experiment.Phases(3).Items(4).Events(1).ExpressionID = [1 2];
+S.Experiment.Phases(3).Items(4).Events(1).ObjectA = {
+                                                     'CurrentTrial'
+                                                     'OL_Center Advance'
+                                                     }';
+S.Experiment.Phases(3).Items(4).Events(1).ObjectB = {
+                                                     'CurrentTrial'
+                                                     'CurrentTrial'
+                                                     }';
+S.Experiment.Phases(3).Items(4).Events(1).StartCondition = 'e1';
+S.Experiment.Phases(3).Items(4).Events(1).StopCondition = 'e2';
+S.Experiment.Phases(3).Items(4).Events(1).FailCondition = '';
+S.Experiment.Phases(3).Items(4).Events(1).RandBalance = 1;
+S.Experiment.Phases(3).Items(4).Events(1).RandID = '';
+S.Experiment.Phases(3).Items(4).Events(1).StopTrialCondition = '';
+S.Experiment.Phases(3).Items(4).Events(1).EventTypeA = [1 4];
+S.Experiment.Phases(3).Items(4).Events(1).EventOperator = [1 1];
+S.Experiment.Phases(3).Items(4).Events(1).Multiplier = [0 0];
+S.Experiment.Phases(3).Items(4).Events(1).EventTypeB = [1 1];
+S.Experiment.Phases(3).Items(4).Events(1).RelOperator = [1 1];
+S.Experiment.Phases(3).Items(4).Events(1).EventScalar = [0 0.5];
+S.Experiment.Phases(3).Items(4).Events(2).Name = 'Side Stimulus';
+S.Experiment.Phases(3).Items(4).Events(2).StimulusFilename = 'C:\Experiment\Stimuli\Effie\AGs\pinwheel.mov';
+S.Experiment.Phases(3).Items(4).Events(2).Loop = 1;
+S.Experiment.Phases(3).Items(4).Events(2).OutputLocationType = 2;
+S.Experiment.Phases(3).Items(4).Events(2).OutputLocation = [1 2];
+S.Experiment.Phases(3).Items(4).Events(2).RelatedEvent = 'Center Stimulus';
+S.Experiment.Phases(3).Items(4).Events(2).ExpressionID = [1 2 3 4];
+S.Experiment.Phases(3).Items(4).Events(2).ObjectA = {
+                                                     'OL_Center Advance'
+                                                     'Side Sound'
+                                                     'Correct'
+                                                     'Correct'
+                                                     }';
+S.Experiment.Phases(3).Items(4).Events(2).ObjectB = {
+                                                     'CurrentTrial'
+                                                     'CurrentTrial'
+                                                     'CurrentTrial'
+                                                     'CurrentTrial'
+                                                     }';
+S.Experiment.Phases(3).Items(4).Events(2).StartCondition = 'e1';
+S.Experiment.Phases(3).Items(4).Events(2).StopCondition = 'e2 | e3';
+S.Experiment.Phases(3).Items(4).Events(2).FailCondition = 'e3 & e4';
+S.Experiment.Phases(3).Items(4).Events(2).RandBalance = 2;
+S.Experiment.Phases(3).Items(4).Events(2).RandID = 'b';
+S.Experiment.Phases(3).Items(4).Events(2).StopTrialCondition = [];
+S.Experiment.Phases(3).Items(4).Events(2).EventTypeA = [4 2 7 6];
+S.Experiment.Phases(3).Items(4).Events(2).EventOperator = [1 1 1 1];
+S.Experiment.Phases(3).Items(4).Events(2).Multiplier = [0 0 0 0];
+S.Experiment.Phases(3).Items(4).Events(2).EventTypeB = [1 1 1 1];
+S.Experiment.Phases(3).Items(4).Events(2).RelOperator = [1 1 1 2];
+S.Experiment.Phases(3).Items(4).Events(2).EventScalar = [0 20 2 2];
+S.Experiment.Phases(3).Items(4).Events(3).Name = 'Side Sound';
+S.Experiment.Phases(3).Items(4).Events(3).StimulusFilename = 'C:\Experiment\Stimuli\Effie\Audio\manu_test.wav';
+S.Experiment.Phases(3).Items(4).Events(3).Loop = 0;
+S.Experiment.Phases(3).Items(4).Events(3).OutputLocationType = 3;
+S.Experiment.Phases(3).Items(4).Events(3).OutputLocation = [1 2];
+S.Experiment.Phases(3).Items(4).Events(3).RelatedEvent = 'Side Stimulus';
+S.Experiment.Phases(3).Items(4).Events(3).ExpressionID = [1 2];
+S.Experiment.Phases(3).Items(4).Events(3).ObjectA = {
+                                                     'Correct'
+                                                     'Side Stimulus'
+                                                     }';
+S.Experiment.Phases(3).Items(4).Events(3).ObjectB = {
+                                                     'CurrentTrial'
+                                                     'CurrentTrial'
+                                                     }';
+S.Experiment.Phases(3).Items(4).Events(3).StartCondition = 'e1';
+S.Experiment.Phases(3).Items(4).Events(3).StopCondition = 'e2';
+S.Experiment.Phases(3).Items(4).Events(3).FailCondition = '';
+S.Experiment.Phases(3).Items(4).Events(3).RandBalance = 1;
+S.Experiment.Phases(3).Items(4).Events(3).RandID = [];
+S.Experiment.Phases(3).Items(4).Events(3).StopTrialCondition = [];
+S.Experiment.Phases(3).Items(4).Events(3).EventTypeA = [4 3];
+S.Experiment.Phases(3).Items(4).Events(3).EventOperator = [1 1];
+S.Experiment.Phases(3).Items(4).Events(3).Multiplier = [0 0];
+S.Experiment.Phases(3).Items(4).Events(3).EventTypeB = [1 1];
+S.Experiment.Phases(3).Items(4).Events(3).RelOperator = [1 1];
+S.Experiment.Phases(3).Items(4).Events(3).EventScalar = [0 0];
+S.Experiment.PhaseOrder = 'Sequential';
+S.Experiment.ShowInfoSlide = 0;
+S.Experiment.InfoSlideOL = 1;
+S.Experiment.ShowTrialSlide = 0;
+S.Experiment.TrialSlideOL = 1;
+S.Experiment.TrialSlideEvents = 0;
+S.OL.NumOL = 6;
+S.OL.UsePsychPortAudio = 1;
+S.OL.OL(1).Name = '4';
+S.OL.OL(1).Key = 'numpad4';
+S.OL.OL(1).AudioDevice = 2;
+S.OL.OL(1).AudioChannels = 2;
+S.OL.OL(1).DisplayCoords = [1921 1 2944 819];
+S.OL.OL(1).Fullscreen = 1;
+S.OL.OL(1).VideoAudioDevice = 2;
+S.OL.OL(1).VideoAudioChannels = 2;
+S.OL.OL(1).NumAudioChannels = 2;
+S.OL.OL(2).Name = '6';
+S.OL.OL(2).Key = 'numpad6';
+S.OL.OL(2).AudioDevice = 2;
+S.OL.OL(2).AudioChannels = 1;
+S.OL.OL(2).DisplayCoords = [5121 1 6400 1024];
+S.OL.OL(2).Fullscreen = 1;
+S.OL.OL(2).VideoAudioDevice = 2;
+S.OL.OL(2).VideoAudioChannels = 1;
+S.OL.OL(2).NumAudioChannels = 2;
+S.OL.OL(3).Name = 'Center';
+S.OL.OL(3).Key = 'numpad8';
+S.OL.OL(3).AudioDevice = 2;
+S.OL.OL(3).AudioChannels = [1 2];
+S.OL.OL(3).DisplayCoords = [3800 541 6560 1080];
+S.OL.OL(3).Fullscreen = 0;
+S.OL.OL(3).VideoAudioDevice = 2;
+S.OL.OL(3).VideoAudioChannels = [1 2];
+S.OL.OL(3).NumAudioChannels = 2;
+S.OL.OL(4).Name = 'Center Advance';
+S.OL.OL(4).Key = 'numpad5';
+S.OL.OL(4).AudioDevice = 2;
+S.OL.OL(4).AudioChannels = [1 2];
+S.OL.OL(4).DisplayCoords = [3800 541 6560 1080];
+S.OL.OL(4).Fullscreen = 1;
+S.OL.OL(4).VideoAudioDevice = 2;
+S.OL.OL(4).VideoAudioChannels = [1 2];
+S.OL.OL(4).NumAudioChannels = 2;
+S.OL.OL(5).Name = 'Info Slide';
+S.OL.OL(5).Key = [];
+S.OL.OL(5).AudioDevice = 2;
+S.OL.OL(5).AudioChannels = [1 2];
+S.OL.OL(5).DisplayCoords = [3201 1 5120 1080];
+S.OL.OL(5).Fullscreen = 0;
+S.OL.OL(5).VideoAudioDevice = 2;
+S.OL.OL(5).VideoAudioChannels = [1 2];
+S.OL.OL(5).NumAudioChannels = 2;
+S.OL.OL(6).Name = 'Front';
+S.OL.OL(6).Key = 'h';
+S.OL.OL(6).AudioDevice = 3;
+S.OL.OL(6).AudioChannels = [1 2];
+S.OL.OL(6).DisplayCoords = [3201 1 5120 1080];
+S.OL.OL(6).Fullscreen = 1;
+S.OL.OL(6).VideoAudioDevice = 3;
+S.OL.OL(6).VideoAudioChannels = [1 2];
+S.OL.OL(6).NumAudioChannels = 2;
+S.OL.ImageDisplayMode = 1;
+S.Paths.StimulusPath = 'C:\Experiment\Stimuli\';
+S.Paths.ResultsPath = 'C:\Experiment\Results\Effie\';
+S.Keys.EndTrial = 'n';
+S.Keys.EndPhase = 'x';
+S.Keys.EndExperiment = 'q';
+S.Keys.Pause = 'pause';
+S.Results = [];
+S.UsePsychPortAudio = true;
