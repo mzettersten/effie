@@ -1,0 +1,985 @@
+Trial	Phase	Item	Location	Block	Looking Time (ms)	Looks Away	PreLook (ms)	PostLook (ms)	SoundFile	Protocol	Subject ID	Tester	Gender	Age (days)	Comments	Familiarization
+1	1	1		1													
+1	2	1	2	1	17768	1	3461	20960	-	Effie	effie_001	mz	M	255	test trial 1 - briefly released key when baby moved arms suddenly, but baby was still looking		
+2	2	1	1	1	350	0	16341	2358	-	Effie	effie_001	mz	M	255	test trial 1 - briefly released key when baby moved arms suddenly, but baby was still looking		
+3	2	1		1													
+1	3	3	1	1	20433	1	4486	20025	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	effie_001	mz	M	255	test trial 1 - briefly released key when baby moved arms suddenly, but baby was still looking		
+2	3	2	2	1	19117	3	5021	20012	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	effie_001	mz	M	255	test trial 1 - briefly released key when baby moved arms suddenly, but baby was still looking		
+3	3	4	1	1	5391	0	2784	7394	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	effie_001	mz	M	255	test trial 1 - briefly released key when baby moved arms suddenly, but baby was still looking		
+4	3	1	2	1	13663	3	4879	18262	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	effie_001	mz	M	255	test trial 1 - briefly released key when baby moved arms suddenly, but baby was still looking		
+5	3	1	1	2	13827	3	2054	18588	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	effie_001	mz	M	255	test trial 1 - briefly released key when baby moved arms suddenly, but baby was still looking		
+6	3	3	2	2	8096	2	2184	12302	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	effie_001	mz	M	255	test trial 1 - briefly released key when baby moved arms suddenly, but baby was still looking		
+7	3	2	1	2	9430	2	3504	12490	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	effie_001	mz	M	255	test trial 1 - briefly released key when baby moved arms suddenly, but baby was still looking		
+8	3	4	2	2	991	0	1779	3001	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	effie_001	mz	M	255	test trial 1 - briefly released key when baby moved arms suddenly, but baby was still looking		
+9	3	1	2	3	6559	0	1959	8568	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	effie_001	mz	M	255	test trial 1 - briefly released key when baby moved arms suddenly, but baby was still looking		
+10	3	3	1	3	7040	0	1474	9052	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	effie_001	mz	M	255	test trial 1 - briefly released key when baby moved arms suddenly, but baby was still looking		
+11	3	4	2	3	9025	2	1549	13810	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	effie_001	mz	M	255	test trial 1 - briefly released key when baby moved arms suddenly, but baby was still looking		
+12	3	2	1	3	6064	0	1401	8069	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	effie_001	mz	M	255	test trial 1 - briefly released key when baby moved arms suddenly, but baby was still looking		
+13	3	4	1	4	6000	0	1404	8010	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	effie_001	mz	M	255	test trial 1 - briefly released key when baby moved arms suddenly, but baby was still looking		
+1	1	1		1													
+1	2	1	2	1	11722	3	1612	16519	-	Effie	002	DB	f	256			
+2	2	1	2	1	5687	2	1305	10099	-	Effie	002	DB	f	256			
+3	2	1	1	1	2559	0	1385	4563	-	Effie	002	DB	f	256			
+4	2	1	1	1	6694	4	1368	12022	-	Effie	002	DB	f	256			
+5	2	1		2													
+1	3	3	1	1	14798	4	1298	20019	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	002	DB	f	256			
+2	3	1	2	1	2840	0	1255	4843	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	002	DB	f	256			
+3	3	4	2	1	3127	1	1389	6205	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	002	DB	f	256			
+4	3	2	1	1	14777	5	1282	20007	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	002	DB	f	256			
+5	3	3	2	2	12101	7	1190	20023	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	002	DB	f	256			
+6	3	2	1	2	14171	4	1239	20019	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	002	DB	f	256			
+7	3	1	1	2	8782	3	1287	14135	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	002	DB	f	256			
+8	3	4	2	2	14877	3	1256	20019	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	002	DB	f	256			
+9	3	2	1	3	2550	0	1220	4563	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	002	DB	f	256			
+10	3	1	2	3	3015	0	1170	5028	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	002	DB	f	256			
+11	3	4	2	3	1417	0	1689	3427	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	002	DB	f	256			
+12	3	3	1	3	3391	0	1266	5394	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	002	DB	f	256			
+13	3	4	2	4	2302	0	1158	4306	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	002	DB	f	256			
+1	1	1		1													
+1	2	1	1	1	43727	2	10670	46736	-	Effie	003	DB/JS	M	230			
+1	3	3	2	1	18555	2	5819	20009	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	003	DB/JS	M	230			
+2	3	2	1	1	18649	3	3098	20012	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	003	DB/JS	M	230			
+3	3	4	1	1	19007	3	1695	20018	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	003	DB/JS	M	230			
+4	3	1	2	1	15492	3	4816	20022	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	003	DB/JS	M	230			
+5	3	1	2	2	15461	4	1095	20010	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	003	DB/JS	M	230			
+6	3	4	1	2	16977	3	1442	20018	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	003	DB/JS	M	230			
+7	3	2	2	2	9317	2	5336	14250	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	003	DB/JS	M	230			
+8	3	3	1	2	11897	5	1666	17915	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	003	DB/JS	M	230			
+9	3	1	2	3	16705	4	1422	20010	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	003	DB/JS	M	230			
+10	3	3	1	3	8139	2	3681	13213	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	003	DB/JS	M	230			
+11	3	2	1	3	6560	3	1424	11569	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	003	DB/JS	M	230			
+12	3	4	2	3	13769	3	2992	18194	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	003	DB/JS	M	230			
+1	1	1		1													
+1	2	1	2	1	8518	2	2243	11800	-	Effie	004	JS	M	272	starting coding a little late in the second to last testing trial. He was doing reallly short looks. 		
+2	2	1	1	1	7512	3	1728	11311	-	Effie	004	JS	M	272	starting coding a little late in the second to last testing trial. He was doing reallly short looks. 		
+3	2	1	2	1	5647	2	5754	9429	-	Effie	004	JS	M	272	starting coding a little late in the second to last testing trial. He was doing reallly short looks. 		
+4	2	1	1	1	1848	1	2086	5805	-	Effie	004	JS	M	272	starting coding a little late in the second to last testing trial. He was doing reallly short looks. 		
+5	2	1		2													
+1	3	2	2	1	4822	0	1554	6832	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	004	JS	M	272	starting coding a little late in the second to last testing trial. He was doing reallly short looks. 		
+2	3	1	1	1	3090	0	1542	5093	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	004	JS	M	272	starting coding a little late in the second to last testing trial. He was doing reallly short looks. 		
+3	3	3	1	1	15494	6	1103	20018	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	004	JS	M	272	starting coding a little late in the second to last testing trial. He was doing reallly short looks. 		
+4	3	4	2	1	5478	1	995	9449	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	004	JS	M	272	starting coding a little late in the second to last testing trial. He was doing reallly short looks. 		
+5	3	1	1	2	4288	0	9637	6298	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	004	JS	M	272	starting coding a little late in the second to last testing trial. He was doing reallly short looks. 		
+6	3	3	1	2	7015	0	1595	9020	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	004	JS	M	272	starting coding a little late in the second to last testing trial. He was doing reallly short looks. 		
+7	3	4	2	2	4830	0	14547	6841	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	004	JS	M	272	starting coding a little late in the second to last testing trial. He was doing reallly short looks. 		
+8	3	2	2	2	3343	0	1216	5348	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	004	JS	M	272	starting coding a little late in the second to last testing trial. He was doing reallly short looks. 		
+9	3	3	2	3	10231	1	2345	13880	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	004	JS	M	272	starting coding a little late in the second to last testing trial. He was doing reallly short looks. 		
+10	3	1	1	3	10112	0	1472	12114	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	004	JS	M	272	starting coding a little late in the second to last testing trial. He was doing reallly short looks. 		
+11	3	2	1	3	9464	3	2963	15029	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	004	JS	M	272	starting coding a little late in the second to last testing trial. He was doing reallly short looks. 		
+12	3	4	2	3	8391	0	4786	10396	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	004	JS	M	272	starting coding a little late in the second to last testing trial. He was doing reallly short looks. 		
+1	1	1		1													
+1	2	1	1	1	50825	4	1847	54777	-	Effie	005	JS	M	0			
+1	3	4	1	1	19574	2	1433	20017	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	005	JS	M	0			
+2	3	2	2	1	3455	0	1754	5457	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	005	JS	M	0			
+3	3	3	2	1	2943	0	2163	4955	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	005	JS	M	0			
+4	3	1	1	1	7383	0	1417	9391	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	005	JS	M	0			
+5	3	1	2	2	14393	1	2746	17818	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	005	JS	M	0			
+6	3	3	2	2	5815	0	975	7817	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	005	JS	M	0			
+7	3	2	1	2	19898	1	3478	20010	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	005	JS	M	0			
+8	3	4	1	2	18699	2	1258	20023	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	005	JS	M	0			
+9	3	2	2	3	4911	0	2621	6923	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	005	JS	M	0			
+10	3	3	2	3	7512	0	1709	9521	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	005	JS	M	0			
+11	3	1	1	3	19386	1	2734	20008	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	005	JS	M	0			
+12	3	4	1	3	17279	2	1215	20006	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	005	JS	M	0			
+1	1	1		1													
+1	2	1	1	1	11655	0	3226	13665	-	Effie	006	JS	M	270	great! 		
+2	2	1	1	1	14447	1	1855	17684	-	Effie	006	JS	M	270	great! 		
+3	2	1	2	1	0	0	0	0	-	Effie	006	JS	M	270	great! 		
+1	3	2	1	1	19545	3	2143	20012	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	006	JS	M	270	great! 		
+2	3	3	2	1	18956	2	4425	20018	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	006	JS	M	270	great! 		
+3	3	4	1	1	19182	3	1904	20018	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	006	JS	M	270	great! 		
+4	3	1	2	1	19552	1	3466	20014	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	006	JS	M	270	great! 		
+5	3	4	1	2	12736	1	1088	15341	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	006	JS	M	270	great! 		
+6	3	2	2	2	18212	2	4048	20016	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	006	JS	M	270	great! 		
+7	3	1	1	2	4415	0	2050	6421	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	006	JS	M	270	great! 		
+8	3	3	2	2	12631	6	1779	20015	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	006	JS	M	270	great! 		
+9	3	2	2	3	15824	4	1591	20009	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	006	JS	M	270	great! 		
+10	3	4	1	3	5567	0	1703	7576	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	006	JS	M	270	great! 		
+11	3	1	1	3	6878	1	1420	9479	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	006	JS	M	270	great! 		
+12	3	3	2	3	14335	1	3759	17307	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	006	JS	M	270	great! 		
+1	1	1		1													
+1	2	1	1	1	43919	3	5052	50642	-	Effie	007	DB	F	262					
+1	3	2	2	1	5817	0	3626	7819	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	007	DB	F	262					
+2	3	4	1	1	6487	0	855	8499	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	007	DB	F	262					
+3	3	3	1	1	3968	1	1171	6970	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	007	DB	F	262					
+4	3	1	2	1	6079	0	2617	8081	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	007	DB	F	262					
+5	3	4	2	2	10641	3	1788	18091	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	007	DB	F	262					
+6	3	2	2	2	1000	0	2360	3006	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	007	DB	F	262					
+7	3	3	1	2	7491	1	1417	11268	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	007	DB	F	262					
+8	3	1	1	2	2897	1	976	6195	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	007	DB	F	262					
+9	3	2	1	3	864	0	1392	2872	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	007	DB	F	262					
+10	3	1	2	3	8153	1	1779	11025	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	007	DB	F	262					
+11	3	4	1	3	3798	0	1302	5807	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	007	DB	F	262					
+12	3	3	2	3	4408	0	1656	6417	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	007	DB	F	262					
+13	3	2	1	4	2983	0	862	4987	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	007	DB	F	262					
+14	3	2	2	4	4983	0	3822	6988	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	007	DB	F	262					
+1	1	1		1													
+1	2	1	2	1	5143	2	2081	9105	-	Effie	008	JS	F	225			
+2	2	1	2	1	2246	0	1384	4254	-	Effie	008	JS	F	225			
+3	2	1	1	1	6135	1	1649	9213	-	Effie	008	JS	F	225			
+4	2	1	1	1	4935	1	1532	8850	-	Effie	008	JS	F	225			
+5	2	1	2	2	2592	1	3024	5336	-	Effie	008	JS	F	225			
+1	3	4	1	1	4984	1	2162	8235	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	008	JS	F	225			
+2	3	1	2	1	12680	2	1668	18577	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	008	JS	F	225			
+3	3	2	1	1	16807	6	1534	20013	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	008	JS	F	225			
+4	3	3	2	1	6716	3	1516	13563	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	008	JS	F	225			
+5	3	2	2	2	15225	4	1313	20007	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	008	JS	F	225			
+6	3	4	2	2	3831	1	1024	6691	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	008	JS	F	225			
+7	3	1	1	2	15330	4	2784	20021	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	008	JS	F	225			
+8	3	3	1	2	6263	2	1095	11198	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	008	JS	F	225			
+9	3	4	2	3	5944	3	1752	11453	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	008	JS	F	225			
+10	3	3	1	3	3086	1	1627	6455	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	008	JS	F	225			
+11	3	1	2	3	14752	2	1117	20018	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	008	JS	F	225			
+12	3	2	1	3	6782	2	1397	10719	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	008	JS	F	225			
+1	1	1		1													
+1	2	1	1	1	10904	2	2034	13922	-	Effie	009	JS	F	271			
+2	2	1	2	1	4758	0	2141	6761	-	Effie	009	JS	F	271			
+3	2	1	2	1	3175	0	20280	4454	-	Effie	009	JS	F	271			
+1	3	2	2	1	8281	1	5904	11927	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	009	JS	F	271			
+2	3	4	1	1	6686	1	1328	10377	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	009	JS	F	271			
+3	3	1	2	1	2074	0	4002	4075	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	009	JS	F	271			
+4	3	3	1	1	3127	0	1864	5135	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	009	JS	F	271			
+5	3	4	1	2	13855	0	1817	15862	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	009	JS	F	271			
+6	3	1	1	2	2902	0	1423	4911	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	009	JS	F	271			
+7	3	2	2	2	1311	0	7705	3317	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	009	JS	F	271			
+8	3	3	2	2	2975	0	3247	4986	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	009	JS	F	271			
+9	3	3	2	3	2647	1	2533	5620	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	009	JS	F	271			
+10	3	1	1	3	10599	1	4495	13816	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	009	JS	F	271			
+11	3	4	2	3	3169	0	2864	5179	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	009	JS	F	271			
+12	3	2	1	3	7920	2	1421	10211	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	009	JS	F	271			
+13	3	2	1	4	5159	1	1529	7372	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	009	JS	F	271			
+1	1	1		1													
+1	2	1	1	1	20688	4	1653	24368	-	Effie	010	JS	F	261	During the last trial, I held down the key for like a second too long. 		
+2	2	1	2	1	7433	4	2864	14138	-	Effie	010	JS	F	261	During the last trial, I held down the key for like a second too long. 		
+3	2	1	2	1	3662	1	1610	6919	-	Effie	010	JS	F	261	During the last trial, I held down the key for like a second too long. 		
+4	2	1	1	1	0	0	0	0	-	Effie	010	JS	F	261	During the last trial, I held down the key for like a second too long. 		
+1	3	1	2	1	16357	4	2126	20010	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	010	JS	F	261	During the last trial, I held down the key for like a second too long. 		
+2	3	3	1	1	17852	2	1841	20015	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	010	JS	F	261	During the last trial, I held down the key for like a second too long. 		
+3	3	4	1	1	17118	3	1330	20013	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	010	JS	F	261	During the last trial, I held down the key for like a second too long. 		
+4	3	2	2	1	6414	2	1512	10635	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	010	JS	F	261	During the last trial, I held down the key for like a second too long. 		
+5	3	1	2	2	5014	1	1379	7336	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	010	JS	F	261	During the last trial, I held down the key for like a second too long. 		
+6	3	4	1	2	12841	1	1555	15978	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	010	JS	F	261	During the last trial, I held down the key for like a second too long. 		
+7	3	2	1	2	9641	0	1421	11645	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	010	JS	F	261	During the last trial, I held down the key for like a second too long. 		
+8	3	3	2	2	3328	0	1457	5335	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	010	JS	F	261	During the last trial, I held down the key for like a second too long. 		
+9	3	2	2	3	3415	0	1266	5426	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	010	JS	F	261	During the last trial, I held down the key for like a second too long. 		
+10	3	4	2	3	3400	0	1284	5402	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	010	JS	F	261	During the last trial, I held down the key for like a second too long. 		
+11	3	3	1	3	3184	0	1529	5186	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	010	JS	F	261	During the last trial, I held down the key for like a second too long. 		
+12	3	1	1	3	12150	1	1326	15826	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	010	JS	F	261	During the last trial, I held down the key for like a second too long. 		
+1	1	1		1													
+1	2	1	1	1	8664	0	2680	10675	-	Effie	011	AM/JS	F	227			
+2	2	1	2	1	6280	0	2319	8290	-	Effie	011	AM/JS	F	227			
+3	2	1	2	1	5432	0	2056	7439	-	Effie	011	AM/JS	F	227			
+4	2	1	1	1	5743	1	1900	7785	-	Effie	011	AM/JS	F	227			
+5	2	1		2													
+1	3	2	2	1	15386	3	1338	20016	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	011	AM/JS	F	227			
+2	3	3	1	1	2936	0	1944	4947	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	011	AM/JS	F	227			
+3	3	4	1	1	3799	0	1672	5801	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	011	AM/JS	F	227			
+4	3	1	2	1	3328	0	1629	5336	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	011	AM/JS	F	227			
+5	3	3	2	2	15561	3	1593	20006	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	011	AM/JS	F	227			
+6	3	1	2	2	19215	2	1675	20005	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	011	AM/JS	F	227			
+7	3	2	1	2	2207	0	1599	4218	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	011	AM/JS	F	227			
+8	3	4	1	2	1544	0	1911	3555	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	011	AM/JS	F	227			
+9	3	3	1	3	5351	0	1512	7354	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	011	AM/JS	F	227			
+10	3	1	2	3	14199	1	1385	17328	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	011	AM/JS	F	227			
+11	3	4	2	3	11248	2	1673	13449	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	011	AM/JS	F	227			
+12	3	2	1	3	5072	0	1462	7075	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	011	AM/JS	F	227			
+13	3	4	2	4	9271	1	1599	11889	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	011	AM/JS	F	227			
+1	1	1		1													
+1	2	1	1	1	8335	0	43753	10343	-	Effie	012	JS	M	258	good! 		
+2	2	1	2	1	0	0	0	0	-	Effie	012	JS	M	258	good! 		
+1	3	1	1	1	7680	0	1974	9683	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	012	JS	M	258	good! 		
+2	3	2	1	1	18152	2	1867	20013	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	012	JS	M	258	good! 		
+3	3	4	2	1	2319	0	1768	4331	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	012	JS	M	258	good! 		
+4	3	3	2	1	4879	0	1807	6891	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	012	JS	M	258	good! 		
+5	3	2	2	2	17013	2	1438	20015	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	012	JS	M	258	good! 		
+6	3	1	1	2	8527	0	3097	10537	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	012	JS	M	258	good! 		
+7	3	3	2	2	14656	2	1302	18316	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	012	JS	M	258	good! 		
+8	3	4	1	2	6561	0	3958	8569	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	012	JS	M	258	good! 		
+9	3	1	2	3	14801	2	1618	20023	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	012	JS	M	258	good! 		
+10	3	3	2	3	7536	1	1345	11044	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	012	JS	M	258	good! 		
+11	3	4	1	3	9656	0	9804	11667	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	012	JS	M	258	good! 		
+12	3	2	1	3	9927	1	3190	13256	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	012	JS	M	258	good! 		
+1	1	1		1													
+1	2	1		1													
+1	3	2	2	1	10841	0	39856	12851	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	013	HW	M	274			
+2	3	3		1													
+1	1	1		1													
+1	2	1	1	1	9983	1	7889	13252	-	Effie	014	JS/LF	M	213	Should have held the 6 key down for a little longer during trial 4. 		
+2	2	1	2	1	4792	0	2046	6798	-	Effie	014	JS/LF	M	213	Should have held the 6 key down for a little longer during trial 4. 		
+3	2	1	1	1	2847	0	6673	4858	-	Effie	014	JS/LF	M	213	Should have held the 6 key down for a little longer during trial 4. 		
+4	2	1	2	1	3360	0	1626	4914	-	Effie	014	JS/LF	M	213	Should have held the 6 key down for a little longer during trial 4. 		
+1	3	1	1	1	2552	0	3370	4557	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	014	JS/LF	M	213	Should have held the 6 key down for a little longer during trial 4. 		
+2	3	3	1	1	5438	1	6067	7798	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	014	JS/LF	M	213	Should have held the 6 key down for a little longer during trial 4. 		
+3	3	2	2	1	6068	2	1536	9667	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	014	JS/LF	M	213	Should have held the 6 key down for a little longer during trial 4. 		
+4	3	4	2	1	5158	0	5793	7161	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	014	JS/LF	M	213	Should have held the 6 key down for a little longer during trial 4. 		
+5	3	3	2	2	6981	0	1688	8983	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	014	JS/LF	M	213	Should have held the 6 key down for a little longer during trial 4. 		
+6	3	2	1	2	2728	0	6527	4739	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	014	JS/LF	M	213	Should have held the 6 key down for a little longer during trial 4. 		
+7	3	4	1	2	2680	0	2550	4684	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	014	JS/LF	M	213	Should have held the 6 key down for a little longer during trial 4. 		
+8	3	1	2	2	4327	1	3986	6635	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	014	JS/LF	M	213	Should have held the 6 key down for a little longer during trial 4. 		
+9	3	1	1	3	2504	0	1690	4510	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	014	JS/LF	M	213	Should have held the 6 key down for a little longer during trial 4. 		
+10	3	4	2	3	3391	0	1628	5396	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	014	JS/LF	M	213	Should have held the 6 key down for a little longer during trial 4. 		
+11	3	2	1	3	3961	0	5203	5970	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	014	JS/LF	M	213	Should have held the 6 key down for a little longer during trial 4. 		
+12	3	3	2	3	2512	0	1279	4523	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	014	JS/LF	M	213	Should have held the 6 key down for a little longer during trial 4. 		
+1	1	1		1													
+1	2	1	1	1	10752	1	2382	13177	-	Effie	015	rb	m	253			
+2	2	1	2	1	5120	0	1559	7127	-	Effie	015	rb	m	253			
+3	2	1	2	1	3848	0	1640	5852	-	Effie	015	rb	m	253			
+4	2	1	1	1	9504	0	2838	11508	-	Effie	015	rb	m	253			
+5	2	1		2													
+1	3	1	2	1	3463	0	1690	5471	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	015	rb	m	253			
+2	3	4	2	1	5400	0	1486	7404	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	015	rb	m	253			
+3	3	3	1	1	9343	1	1625	12997	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	015	rb	m	253			
+4	3	2	1	1	15368	2	1507	18923	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	015	rb	m	253			
+5	3	1	2	2	11687	2	2446	17464	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	015	rb	m	253			
+6	3	4	1	2	8536	1	2233	11279	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	015	rb	m	253			
+7	3	2	1	2	6614	2	1465	9866	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	015	rb	m	253			
+8	3	3	2	2	7033	1	1484	10703	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	015	rb	m	253			
+9	3	1	1	3	3174	0	936	5182	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	015	rb	m	253			
+10	3	2	2	3	6009	2	1582	11101	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	015	rb	m	253			
+11	3	4	1	3	6199	1	1288	9165	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	015	rb	m	253			
+12	3	3	2	3	3071	1	1743	5720	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	015	rb	m	253			
+1	1	1		1													
+1	2	1	2	1	14718	0	13319	16719	-	Effie	016	LF	F	201			
+2	2	1	1	1	8792	0	9963	10796	-	Effie	016	LF	F	201			
+3	2	1	2	1	0	0	0	0	-	Effie	016	LF	F	201			
+1	3	2	2	1	13703	0	7567	15707	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	016	LF	F	201			
+2	3	3	1	1	3672	0	2891	5682	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	016	LF	F	201			
+3	3	4	2	1	10054	1	3971	13504	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	016	LF	F	201			
+4	3	1	1	1	6743	0	12503	8745	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	016	LF	F	201			
+5	3	4	1	2	5576	0	2913	7584	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	016	LF	F	201			
+6	3	1	2	2	3810	0	6040	5817	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	016	LF	F	201			
+7	3	2	1	2	12398	3	4292	19057	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	016	LF	F	201			
+8	3	3	2	2	9447	1	4766	13288	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	016	LF	F	201			
+9	3	4	1	3	5599	1	1175	8661	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	016	LF	F	201			
+10	3	3	2	3	3769	0	4353	5779	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	016	LF	F	201			
+11	3	1	2	3	6040	1	13478	8458	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	016	LF	F	201			
+12	3	2	1	3	14567	0	2546	16570	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	016	LF	F	201			
+1	1	1		1													
+1	2	1	1	1	50095	1	5297	51418	-	Effie	Effie_017	EK	M	192			
+1	3	3	2	1	18375	0	27465	20019	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	Effie_017	EK	M	192			
+2	3	4	1	1	20169	1	12089	20016	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	Effie_017	EK	M	192			
+3	3	1	1	1	20407	2	6896	20017	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	Effie_017	EK	M	192			
+4	3	2	2	1	7519	1	15906	10752	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	Effie_017	EK	M	192			
+5	3	4	1	2	14105	0	5360	16108	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	Effie_017	EK	M	192			
+6	3	1	2	2	12108	3	8136	18275	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	Effie_017	EK	M	192			
+7	3	3	2	2	3072	0	1415	5082	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	Effie_017	EK	M	192			
+8	3	2	1	2	7616	1	6302	10150	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	Effie_017	EK	M	192			
+9	3	4	1	3	9872	0	4643	11875	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	Effie_017	EK	M	192			
+10	3	1	1	3	12623	0	4401	14637	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	Effie_017	EK	M	192			
+11	3	3	2	3	4649	0	8225	6657	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	Effie_017	EK	M	192			
+12	3	2	2	3	4488	0	21031	6499	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	Effie_017	EK	M	192			
+1	1	1		1													
+1	2	1	1	1	16191	1	2442	19145	-	Effie	018	JS	F	247			
+2	2	1	1	1	17014	2	2622	20307	-	Effie	018	JS	F	247			
+3	2	1	2	1	4135	0	1576	6141	-	Effie	018	JS	F	247			
+4	2	1		1													
+1	3	3	1	1	7239	0	1639	9247	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	018	JS	F	247			
+2	3	2	1	1	9016	0	1696	11028	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	018	JS	F	247			
+3	3	1	2	1	3645	1	1361	6065	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	018	JS	F	247			
+4	3	4	2	1	12120	0	1438	14131	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	018	JS	F	247			
+5	3	3	2	2	11823	2	1544	16339	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	018	JS	F	247			
+6	3	4	2	2	7896	1	1432	11512	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	018	JS	F	247			
+7	3	1	1	2	2783	0	3817	4792	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	018	JS	F	247			
+8	3	2	1	2	7113	2	3121	11641	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	018	JS	F	247			
+9	3	2	2	3	10167	2	1476	13515	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	018	JS	F	247			
+10	3	1	1	3	5127	1	2888	7518	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	018	JS	F	247			
+11	3	3	1	3	3038	0	1546	5043	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	018	JS	F	247			
+12	3	4	2	3	2024	0	1440	4030	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	018	JS	F	247			
+1	1	1		1													
+1	2	1	1	1	11639	1	6711	15549	-	Effie	019	JS	M	196	great!		
+2	2	1	1	1	7288	0	5316	9296	-	Effie	019	JS	M	196	great!		
+3	2	1	2	1	7096	0	4176	9108	-	Effie	019	JS	M	196	great!		
+4	2	1		1													
+1	3	2	2	1	1144	0	1950	3157	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	019	JS	M	196	great!		
+2	3	1	1	1	15844	4	1844	20007	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	019	JS	M	196	great!		
+3	3	3	1	1	7918	3	1472	13623	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	019	JS	M	196	great!		
+4	3	4	2	1	3496	0	3568	5506	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	019	JS	M	196	great!		
+5	3	2	1	2	3097	0	1611	5103	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	019	JS	M	196	great!		
+6	3	3	2	2	2544	0	3040	4550	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	019	JS	M	196	great!		
+7	3	1	1	2	9975	3	1441	15367	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	019	JS	M	196	great!		
+8	3	4	2	2	2168	0	1788	4172	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	019	JS	M	196	great!		
+9	3	2	1	3	3639	0	3111	5648	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	019	JS	M	196	great!		
+10	3	1	2	3	3247	0	1617	5260	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	019	JS	M	196	great!		
+11	3	3	2	3	1832	0	1529	3843	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	019	JS	M	196	great!		
+12	3	4	1	3	5394	2	1296	10159	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	019	JS	M	196	great!		
+13	3	2	1	4	2335	0	2889	4343	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	019	JS	M	196	great!		
+14	3	3	1	4	2088	0	1309	4101	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	019	JS	M	196	great!		
+1	1	1		1													
+1	2	1	1	1	47056	3	6086	52587	-	Effie	020		F	266			
+2	2	1		1													
+1	3	3	1	1	18078	2	1521	20019	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	020		F	266			
+2	3	4	2	1	19226	1	8792	20018	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	020		F	266			
+3	3	1	2	1	16144	1	4189	19337	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	020		F	266			
+4	3	2	1	1	15824	2	2061	20014	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	020		F	266			
+5	3	4	1	2	20573	0	2008	20016	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	020		F	266			
+6	3	2	2	2	11646	1	6264	14455	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	020		F	266			
+7	3	3	2	2	7886	0	7891	9896	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	020		F	266			
+8	3	1	1	2	17705	3	6591	20010	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	020		F	266			
+9	3	3	2	3	7671	0	3120	9680	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	020		F	266			
+10	3	4	2	3	17598	3	2305	20008	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	020		F	266			
+11	3	2	1	3	7497	0	3307	9506	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	020		F	266			
+12	3	1	1	3	15016	3	1824	19894	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	020		F	266			
+1	1	1		1													
+1	2	1	2	1	30959	0	2558	32968	-	Effie	021	JS	F	0			
+2	2	1	1	1	0	0	0	0	-	Effie	021	JS	F	0			
+1	3	1	2	1	17209	2	2302	20020	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	021	JS	F	0			
+2	3	3	2	1	4288	0	1977	6297	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	021	JS	F	0			
+3	3	2	1	1	6072	1	10679	8584	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	021	JS	F	0			
+4	3	4	1	1	18521	0	6459	20011	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	021	JS	F	0			
+5	3	1	2	2	17296	2	1743	20020	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	021	JS	F	0			
+6	3	2	2	2	12574	1	1550	15951	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	021	JS	F	0			
+7	3	3	1	2	11760	0	9137	13770	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	021	JS	F	0			
+8	3	4	1	2	6878	0	7340	8890	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	021	JS	F	0			
+9	3	3	1	3	12855	4	3693	17155	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	021	JS	F	0			
+10	3	2	2	3	5552	0	1762	7556	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	021	JS	F	0			
+11	3	4	1	3	8679	0	4137	10687	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	021	JS	F	0			
+12	3	1	2	3	11102	1	2295	13320	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	021	JS	F	0			
+1	1	1		1													
+1	2	1	1	1	25872	0	1993	27875	-	Effie	022	AM	M	242			
+2	2	1	2	1	5567	0	1567	7576	-	Effie	022	AM	M	242			
+3	2	1	2	1	5582	0	1286	7591	-	Effie	022	AM	M	242			
+4	2	1		1													
+1	3	2	2	1	7090	1	1359	10773	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	022	AM	M	242			
+2	3	4	1	1	17199	0	11561	19201	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	022	AM	M	242			
+3	3	1	1	1	12847	0	1665	14860	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	022	AM	M	242			
+4	3	3	2	1	1256	0	1597	3260	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	022	AM	M	242			
+5	3	4	1	2	5647	0	1695	7656	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	022	AM	M	242			
+6	3	2	2	2	10016	0	2150	12027	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	022	AM	M	242			
+7	3	3	2	2	9376	0	1229	11381	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	022	AM	M	242			
+8	3	1	1	2	8023	0	1408	10027	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	022	AM	M	242			
+9	3	3	1	3	1927	0	1570	3935	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	022	AM	M	242			
+10	3	1	1	3	457	0	14856	841	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	022	AM	M	242			
+1	1	1		1													
+1	2	1	2	1	13128	0	6788	15133	-	Effie	023	AM	F	190			
+2	2	1	1	1	0	0	0	0	-	Effie	023	AM	F	190			
+1	3	4	1	1	13005	0	8824	15010	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	023	AM	F	190			
+2	3	2	1	1	8838	0	8413	10845	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	023	AM	F	190			
+3	3	1	2	1	9722	0	3778	11725	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	023	AM	F	190			
+4	3	3	2	1	8983	2	5586	12620	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	023	AM	F	190			
+5	3	3	1	2	5671	0	16500	7682	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	023	AM	F	190			
+6	3	2	2	2	10007	1	1735	13451	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	023	AM	F	190			
+7	3	1	1	2	8064	0	25332	10067	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	023	AM	F	190			
+8	3	4	2	2	3773	0	6076	5781	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	023	AM	F	190			
+9	3	4	2	3	5174	0	3577	7186	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	023	AM	F	190			
+10	3	3	1	3	2824	0	10782	4832	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	023	AM	F	190			
+11	3	2	2	3	296	0	64131	2300	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	023	AM	F	190			
+12	3	1	1	3	16586	1	5577	19974	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	023	AM	F	190			
+13	3	2	2	4	7874	0	10322	9879	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	023	AM	F	190			
+1	1	1		1													
+1	2	1	2	1	40882	4	9449	45522	-	Effie	Effie_024	EK	M	243			
+1	3	3	1	1	8408	1	1983	10766	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	Effie_024	EK	M	243			
+2	3	1	2	1	8849	0	1925	10855	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	Effie_024	EK	M	243			
+3	3	2	2	1	7997	1	1610	10527	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	Effie_024	EK	M	243			
+4	3	4	1	1	18832	2	1197	20020	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	Effie_024	EK	M	243			
+5	3	2	1	2	5112	0	1382	7117	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	Effie_024	EK	M	243			
+6	3	3	2	2	11215	2	1442	14296	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	Effie_024	EK	M	243			
+7	3	4	2	2	6714	1	1408	9084	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	Effie_024	EK	M	243			
+8	3	1	1	2	6046	0	1474	8048	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	Effie_024	EK	M	243			
+9	3	2	2	3	1759	0	1544	3771	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	Effie_024	EK	M	243			
+10	3	3	2	3	7376	1	1550	9778	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	Effie_024	EK	M	243			
+11	3	1	1	3	11535	1	4040	14877	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	Effie_024	EK	M	243			
+12	3	4	1	3	8449	3	1463	12820	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	Effie_024	EK	M	243			
+13	3	2	1	4	3855	0	1329	5862	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	Effie_024	EK	M	243			
+1	1	1		1													
+1	2	1	2	1	0	0	0	0	-	Effie	025	JS	F	237	Baby didn't do the study. 		
+1	3	2	2	1	110	0	75273	2114	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	025	JS	F	237	Baby didn't do the study. 		
+2	3	1	1	1	20133	1	5256	20012	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	025	JS	F	237	Baby didn't do the study. 		
+3	3	3	2	1	0	0	0	0	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	025	JS	F	237	Baby didn't do the study. 		
+1	1	1		1													
+1	2	1	2	1	8486	2	1694	12055	-	Effie	026	LF	F	257			
+2	2	1	1	1	7257	3	1643	11985	-	Effie	026	LF	F	257			
+3	2	1	2	1	10616	1	1809	13592	-	Effie	026	LF	F	257			
+4	2	1	1	1	2815	1	1618	5707	-	Effie	026	LF	F	257			
+5	2	1		2													
+1	3	2	1	1	1406	0	1961	3413	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	026	LF	F	257			
+2	3	4	2	1	2199	0	1599	4201	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	026	LF	F	257			
+3	3	1	2	1	8925	1	1633	12792	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	026	LF	F	257			
+4	3	3	1	1	7256	1	1561	10029	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	026	LF	F	257			
+5	3	3	1	2	3399	1	1587	7026	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	026	LF	F	257			
+6	3	1	2	2	8128	1	1582	11652	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	026	LF	F	257			
+7	3	4	2	2	7608	2	1435	11963	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	026	LF	F	257			
+8	3	2	1	2	2120	0	1578	4126	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	026	LF	F	257			
+9	3	4	2	3	2742	0	1610	4752	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	026	LF	F	257			
+10	3	3	2	3	983	0	1884	2989	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	026	LF	F	257			
+11	3	2	1	3	4473	1	5082	8080	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	026	LF	F	257			
+12	3	1	1	3	1870	0	5347	3876	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	026	LF	F	257			
+13	3	2	1	4	2992	0	1758	4995	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	026	LF	F	257			
+14	3	3	2	4	1863	0	1712	3871	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	026	LF	F	257			
+15	3	1	2	4	4838	1	1633	7684	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	026	LF	F	257			
+1	1	1		1													
+1	2	1	1	1	21487	0	14137	23496	-	Effie	effie_027	PB	M	209			
+2	2	1	2	1	10697	0	6736	11153	-	Effie	effie_027	PB	M	209			
+1	3	4	2	1	5311	1	1759	8915	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	effie_027	PB	M	209			
+2	3	1	1	1	10016	0	3864	12025	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	effie_027	PB	M	209			
+3	3	2	1	1	8896	0	2097	10902	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	effie_027	PB	M	209			
+4	3	3	2	1	6692	1	1938	10544	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	effie_027	PB	M	209			
+5	3	2	2	2	15991	2	1488	20024	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	effie_027	PB	M	209			
+6	3	3	1	2	6919	0	5122	8931	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	effie_027	PB	M	209			
+7	3	1	1	2	12622	1	4019	16444	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	effie_027	PB	M	209			
+8	3	4	2	2	6041	0	3432	8050	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	effie_027	PB	M	209			
+9	3	2	2	3	639	0	2270	2646	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	effie_027	PB	M	209			
+10	3	1	1	3	7000	0	1245	9001	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	effie_027	PB	M	209			
+11	3	4	2	3	7807	0	2387	9815	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	effie_027	PB	M	209			
+12	3	3	1	3	7961	0	8690	9966	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	effie_027	PB	M	209			
+13	3	2	1	4	2087	0	25014	4088	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	effie_027	PB	M	209			
+1	1	1		1													
+1	2	1	1	1	13680	1	1519	16514	-	Effie	028	DB	F	217			
+2	2	1	1	1	4680	0	1302	6690	-	Effie	028	DB	F	217			
+3	2	1	2	1	4368	0	5726	6374	-	Effie	028	DB	F	217			
+4	2	1	2	1	6558	1	1521	8449	-	Effie	028	DB	F	217			
+1	3	3	1	1	10584	1	2180	13992	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	028	DB	F	217			
+2	3	2	1	1	4008	1	3840	7010	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	028	DB	F	217			
+3	3	1	2	1	2584	0	1010	4597	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	028	DB	F	217			
+4	3	4	2	1	4031	0	2891	6033	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	028	DB	F	217			
+5	3	3	1	2	1521	0	2154	3533	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	028	DB	F	217			
+6	3	4	2	2	2455	1	1786	5499	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	028	DB	F	217			
+7	3	2	1	2	4631	0	1322	6637	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	028	DB	F	217			
+8	3	1	2	2	2791	0	1369	4802	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	028	DB	F	217			
+9	3	1	1	3	1341	0	2063	3354	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	028	DB	F	217			
+10	3	2	2	3	4559	0	1968	6565	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	028	DB	F	217			
+11	3	3	2	3	6463	1	5186	8934	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	028	DB	F	217			
+12	3	4	1	3	2209	1	1233	6025	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	028	DB	F	217			
+13	3	3	1	4	4872	3	1031	8841	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	028	DB	F	217			
+14	3	1	2	4	20911	0	4468	20023	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	028	DB	F	217			
+1	1	1		1													
+1	2	1	2	1	10464	1	5747	13249	-	Effie	029	DB	F	247			
+2	2	1	2	1	3936	0	5543	5938	-	Effie	029	DB	F	247			
+3	2	1	1	1	9936	0	12805	11942	-	Effie	029	DB	F	247			
+4	2	1		1													
+1	3	2	2	1	17495	2	4614	20012	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	029	DB	F	247			
+2	3	3	2	1	3831	0	3592	5835	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	029	DB	F	247			
+3	3	1	1	1	6351	0	18319	8360	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	029	DB	F	247			
+4	3	4	1	1	7976	0	7841	9978	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	029	DB	F	247			
+5	3	3	1	2	3471	0	4121	5480	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	029	DB	F	247			
+6	3	2	2	2	8351	2	1754	12364	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	029	DB	F	247			
+7	3	1	1	2	20629	0	6626	20014	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	029	DB	F	247			
+8	3	4	2	2	4919	1	2349	7637	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	029	DB	F	247			
+9	3	2	2	3	1263	0	1936	3266	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	029	DB	F	247			
+10	3	3	1	3	1065	0	4095	3072	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	029	DB	F	247			
+11	3	1	1	3	930	0	1661	2938	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	029	DB	F	247			
+12	3	4	2	3	976	0	1635	2987	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	029	DB	F	247			
+13	3	2	1	4	2661	1	5497	5061	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	029	DB	F	247			
+14	3	3		4													
+1	1	1		1													
+1	2	1	1	1	7951	3	10920	13374	-	Effie	030	JS	F	263			
+2	2	1	1	1	8416	2	4266	12811	-	Effie	030	JS	F	263			
+3	2	1	2	1	0	0	0	0	-	Effie	030	JS	F	263			
+1	3	4	2	1	5985	1	17576	8169	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	030	JS	F	263			
+2	3	2	1	1	543	0	11266	2545	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	030	JS	F	263			
+3	3	3	1	1	536	0	1954	2548	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	030	JS	F	263			
+4	3	1		1													
+1	1	1		1													
+1	2	1	1	1	4200	0	8107	6210	-	Effie	Effie_031	EK	F	210			
+2	2	1	2	1	6711	0	2525	8713	-	Effie	Effie_031	EK	F	210			
+3	2	1	1	1	3728	0	6595	5735	-	Effie	Effie_031	EK	F	210			
+4	2	1	2	1	3966	1	1224	5578	-	Effie	Effie_031	EK	F	210			
+1	3	4	2	1	3799	0	3559	5809	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	Effie_031	EK	F	210			
+2	3	2	2	1	5408	0	2504	7415	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	Effie_031	EK	F	210			
+3	3	3	1	1	1870	0	4402	3879	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	Effie_031	EK	F	210			
+4	3	1	1	1	2014	0	1463	4019	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	Effie_031	EK	F	210			
+5	3	2	1	2	1574	0	2163	3586	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	Effie_031	EK	F	210			
+6	3	1	2	2	2760	0	2154	4773	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	Effie_031	EK	F	210			
+7	3	4	1	2	3601	1	1576	6373	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	Effie_031	EK	F	210			
+8	3	3	2	2	2150	0	2141	4160	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	Effie_031	EK	F	210			
+9	3	3	1	3	764	0	4669	2773	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	Effie_031	EK	F	210			
+10	3	2	2	3	1976	0	1964	3978	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	Effie_031	EK	F	210			
+11	3	1	2	3	1550	0	2099	3560	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	Effie_031	EK	F	210			
+12	3	4	1	3	1351	0	1519	3365	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	Effie_031	EK	F	210			
+13	3	3	1	4	2864	0	1690	4867	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	Effie_031	EK	F	210			
+14	3	2	2	4	2288	0	1927	4300	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	Effie_031	EK	F	210			
+15	3	3	2	4	2728	0	2631	4730	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	Effie_031	EK	F	210			
+16	3	2	2	4	1112	0	8553	3118	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	Effie_031	EK	F	210			
+17	3	1	2	5	9728	0	11141	11737	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	Effie_031	EK	F	210			
+18	3	4	2	5	4224	0	1845	6234	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	Effie_031	EK	F	210			
+1	1	1		1													
+1	2	1	1	1	5760	0	2602	7770	-	Effie	effie_032		M	211			
+2	2	1	1	1	7478	0	2046	9480	-	Effie	effie_032		M	211			
+3	2	1	2	1	230	0	9879	2239	-	Effie	effie_032		M	211			
+4	2	1	2	1	0	0	0	0	-	Effie	effie_032		M	211			
+1	3	1	1	1	13777	1	1688	17396	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	effie_032		M	211			
+2	3	4	2	1	12935	2	9991	16878	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	effie_032		M	211			
+3	3	3	1	1	18343	1	1875	20012	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	effie_032		M	211			
+4	3	2	2	1	14432	4	6891	19877	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	effie_032		M	211			
+5	3	3	2	2	11261	2	3347	16152	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	effie_032		M	211			
+6	3	2	2	2	19654	1	21500	20014	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	effie_032		M	211			
+7	3	4	1	2	18385	2	1889	20017	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	effie_032		M	211			
+8	3	1	1	2	9720	0	1841	11724	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	effie_032		M	211			
+9	3	4	2	3	8417	1	3175	11406	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	effie_032		M	211			
+10	3	2	1	3	6847	0	1779	8849	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	effie_032		M	211			
+11	3	1	1	3	9936	0	1688	11942	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	effie_032		M	211			
+12	3	3	2	3	11152	1	76242	13878	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	effie_032		M	211			
+1	1	1		1													
+1	2	1	1	1	16761	0	12815	18771	-	Effie	033	LF	F	203			
+2	2	1	2	1	0	0	0	0	-	Effie	033	LF	F	203			
+1	3	2	1	1	16894	2	3121	20015	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	033	LF	F	203			
+2	3	1	1	1	12256	2	2623	16317	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	033	LF	F	203			
+3	3	4	2	1	6855	1	1894	10804	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	033	LF	F	203			
+4	3	3	2	1	13479	6	2203	20006	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	033	LF	F	203			
+5	3	4	2	2	10551	7	1813	18419	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	033	LF	F	203			
+6	3	3	1	2	4783	1	3190	8645	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	033	LF	F	203			
+7	3	2	2	2	14413	5	1843	20018	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	033	LF	F	203			
+8	3	1	1	2	6384	0	2217	8389	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	033	LF	F	203			
+9	3	1	2	3	13775	5	3243	20021	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	033	LF	F	203			
+10	3	3	2	3	4175	2	1952	7184	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	033	LF	F	203			
+11	3	2	1	3	5799	1	1805	9504	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	033	LF	F	203			
+12	3	4	1	3	2473	0	1542	4485	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	033	LF	F	203			
+1	1	1		1													
+1	2	1	2	1	33745	1	5955	36247	-	Effie	034	JS	F	192			
+2	2	1	1	1	6431	0	2069	7575	-	Effie	034	JS	F	192			
+1	3	2	1	1	11151	0	2826	13158	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	034	JS	F	192			
+2	3	4	2	1	13703	0	1824	15708	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	034	JS	F	192			
+3	3	3	1	1	17168	3	2185	20016	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	034	JS	F	192			
+4	3	1	2	1	7279	0	1408	9286	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	034	JS	F	192			
+5	3	2	1	2	7769	1	1877	11286	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	034	JS	F	192			
+6	3	3	2	2	7463	1	1577	10352	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	034	JS	F	192			
+7	3	1	1	2	2705	0	2322	4716	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	034	JS	F	192			
+8	3	4	2	2	6313	1	1345	9471	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	034	JS	F	192			
+9	3	1	1	3	14342	4	1491	20012	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	034	JS	F	192			
+10	3	2	2	3	4762	1	1347	6898	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	034	JS	F	192			
+11	3	4	2	3	4152	0	1154	6165	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	034	JS	F	192			
+12	3	3	1	3	2440	0	2895	4444	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	034	JS	F	192			
+1	1	1		1													
+1	2	1	2	1	48262	1	3023	51743	-	Effie	035	JS	M	194			
+1	3	2	2	1	14913	2	2546	18930	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	035	JS	M	194			
+2	3	1	2	1	18448	3	2469	20010	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	035	JS	M	194			
+3	3	3	1	1	18190	2	1883	20008	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	035	JS	M	194			
+4	3	4	1	1	17292	5	1710	20016	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	035	JS	M	194			
+5	3	2	2	2	16778	4	1631	20012	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	035	JS	M	194			
+6	3	3	1	2	3407	0	1805	5409	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	035	JS	M	194			
+7	3	4	2	2	12847	3	1569	17709	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	035	JS	M	194			
+8	3	1	1	2	12032	3	1427	16692	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	035	JS	M	194			
+9	3	3	2	3	18812	3	1442	20012	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	035	JS	M	194			
+10	3	2	2	3	5383	1	1561	9354	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	035	JS	M	194			
+11	3	4	1	3	11048	2	1481	15552	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	035	JS	M	194			
+12	3	1	1	3	8953	0	1638	10956	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	035	JS	M	194			
+1	1	1		1													
+1	2	1	1	1	12121	1	9540	15527	-	Effie	036	JS	M	265			
+2	2	1	2	1	8759	0	2342	10761	-	Effie	036	JS	M	265			
+3	2	1	2	1	2447	0	3651	4454	-	Effie	036	JS	M	265			
+4	2	1	1	1	2790	0	1874	4413	-	Effie	036	JS	M	265			
+1	3	1	2	1	8847	0	1957	10851	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	036	JS	M	265			
+2	3	3	2	1	5042	1	889	7794	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	036	JS	M	265			
+3	3	2	1	1	1328	0	3421	3333	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	036	JS	M	265			
+4	3	4	1	1	5599	0	4493	7605	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	036	JS	M	265			
+5	3	1	2	2	6416	2	1097	9305	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	036	JS	M	265			
+6	3	3	1	2	2360	0	3794	4366	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	036	JS	M	265			
+7	3	4	2	2	2103	0	915	4105	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	036	JS	M	265			
+8	3	2	1	2	2807	0	2514	4817	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	036	JS	M	265			
+9	3	2	2	3	1536	0	829	3540	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	036	JS	M	265			
+10	3	1	1	3	2719	0	2675	4722	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	036	JS	M	265			
+11	3	3	1	3	5815	0	2665	7821	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	036	JS	M	265			
+12	3	4	2	3	5536	0	2391	7546	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	036	JS	M	265			
+13	3	2	2	4	2360	0	919	4362	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	036	JS	M	265			
+14	3	2	1	4	4567	1	3478	7101	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	036	JS	M	265			
+1	1	1		1													
+1	2	1	2	1	12766	1	2754	15122	-	Effie	037	JS	F	183			
+2	2	1	1	1	3278	0	2343	5284	-	Effie	037	JS	F	183			
+3	2	1	2	1	5576	0	1856	7581	-	Effie	037	JS	F	183			
+4	2	1	1	1	5024	1	2015	8956	-	Effie	037	JS	F	183			
+5	2	1		2													
+1	3	4	1	1	14736	2	5583	18431	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	037	JS	F	183			
+2	3	1	1	1	16278	3	2079	19229	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	037	JS	F	183			
+3	3	3	2	1	5234	0	1701	7239	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	037	JS	F	183			
+4	3	2	2	1	4096	0	1578	6101	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	037	JS	F	183			
+5	3	1	2	2	2463	0	1643	4471	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	037	JS	F	183			
+6	3	3	1	2	4488	0	1769	6497	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	037	JS	F	183			
+7	3	4	2	2	4975	0	1747	6980	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	037	JS	F	183			
+8	3	2	1	2	2536	0	1575	4544	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	037	JS	F	183			
+9	3	2	1	3	3998	0	2193	6005	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	037	JS	F	183			
+10	3	3	2	3	2255	0	1457	4261	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	037	JS	F	183			
+11	3	4	1	3	1655	0	1274	3668	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	037	JS	F	183			
+12	3	1	2	3	17181	4	2447	20016	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	037	JS	F	183			
+13	3	4	1	4	6641	1	1681	10093	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	037	JS	F	183			
+1	1	1		1													
+1	2	1	1	1	0	0	0	0	-	Effie	effie_038	EK	M	209			
+1	3	1	1	1	19307	1	3775	20019	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	effie_038	EK	M	209			
+2	3	4	2	1	11135	0	9728	13145	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	effie_038	EK	M	209			
+3	3	3	2	1	5031	0	2551	7039	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	effie_038	EK	M	209			
+4	3	2	1	1	8601	1	5633	11099	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	effie_038	EK	M	209			
+5	3	2	1	2	6144	0	2215	8151	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	effie_038	EK	M	209			
+6	3	1	2	2	6425	0	1784	8436	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	effie_038	EK	M	209			
+7	3	3	2	2	5527	1	5644	8173	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	effie_038	EK	M	209			
+8	3	4		2													
+9	3	4	1	3	15455	1	2352	18843	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	effie_038	EK	M	209			
+10	3	3	2	3	5152	0	2218	7156	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	effie_038	EK	M	209			
+11	3	1	2	3	7296	0	2256	9307	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	effie_038	EK	M	209			
+12	3	2	1	3	6785	0	3101	8790	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	effie_038	EK	M	209			
+1	1	1		1													
+1	2	1	2	1	48574	3	2600	51266	-	Effie	039	DB	M	206	L2_2	L2_2	
+1	3	3	1	1	7327	0	7894	9330	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	039	DB	M	206	L2_2	L2_2	
+2	3	1	2	1	15005	4	4744	20011	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	039	DB	M	206	L2_2	L2_2	
+3	3	4	2	1	15510	5	1231	20020	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	039	DB	M	206	L2_2	L2_2	
+4	3	2	1	1	7223	3	4085	13059	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	039	DB	M	206	L2_2	L2_2	
+5	3	4	2	2	5985	2	3423	9325	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	039	DB	M	206	L2_2	L2_2	
+6	3	2	1	2	2143	0	3961	4151	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	039	DB	M	206	L2_2	L2_2	
+7	3	3	1	2	5790	2	1341	11140	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	039	DB	M	206	L2_2	L2_2	
+8	3	1	2	2	12724	2	2217	17922	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	039	DB	M	206	L2_2	L2_2	
+9	3	3	2	3	2382	0	1498	4388	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	039	DB	M	206	L2_2	L2_2	
+10	3	1	2	3	6438	2	1637	10191	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	039	DB	M	206	L2_2	L2_2	
+11	3	2	1	3	6461	2	2273	9386	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	039	DB	M	206	L2_2	L2_2	
+12	3	4	1	3	5969	1	1752	9084	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	039	DB	M	206	L2_2	L2_2	
+1	1	1		1													
+1	2	1	2	1	0	0	0	0	-	Effie	040	JS	F	214			
+1	1	1		1													
+1	2	1	2	1	4053	0	2045	6058	-	Effie	040	JS	M	219			
+2	2	1	1	1	4095	0	7776	6105	-	Effie	040	JS	M	219			
+3	2	1	1	1	3512	0	1792	5516	-	Effie	040	JS	M	219			
+4	2	1	2	1	4016	1	1573	7461	-	Effie	040	JS	M	219			
+5	2	1	2	2	4072	1	1101	7682	-	Effie	040	JS	M	219			
+6	2	1		2													
+1	3	1	1	1	5063	0	3165	7072	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	040	JS	M	219			
+2	3	2	2	1	3503	1	1353	6127	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	040	JS	M	219			
+3	3	4	2	1	3983	1	1069	7368	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	040	JS	M	219			
+4	3	3	1	1	3528	0	5273	5538	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	040	JS	M	219			
+5	3	2	1	2	2576	0	2885	4586	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	040	JS	M	219			
+6	3	4	2	2	1662	0	1587	3669	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	040	JS	M	219			
+7	3	3	1	2	2783	0	1591	4788	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	040	JS	M	219			
+8	3	1	2	2	5128	0	909	7130	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	040	JS	M	219			
+9	3	3	1	3	2527	0	1401	4529	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	040	JS	M	219			
+10	3	1	2	3	3440	0	1147	5442	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	040	JS	M	219			
+11	3	2	2	3	1281	0	1421	3282	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	040	JS	M	219			
+12	3	4	1	3	4087	0	10552	6093	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	040	JS	M	219			
+13	3	4	1	4	2224	0	1554	4227	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	040	JS	M	219			
+14	3	2	2	4	1519	0	1483	3526	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	040	JS	M	219			
+1	1	1		1													
+1	2	1	1	1	20199	2	13193	24042	-	Effie	042	JS	F	266			
+2	2	1	1	1	4207	0	2081	6216	-	Effie	042	JS	F	266			
+3	2	1	2	1	4775	0	1913	6008	-	Effie	042	JS	F	266			
+1	3	3	1	1	8502	1	1874	12504	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	042	JS	F	266			
+2	3	1	1	1	16722	5	3024	20009	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	042	JS	F	266			
+3	3	4	2	1	17070	3	1675	20010	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	042	JS	F	266			
+4	3	2	2	1	6569	1	1591	9244	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	042	JS	F	266			
+5	3	2	2	2	14306	2	1487	18230	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	042	JS	F	266			
+6	3	1	1	2	6082	0	8245	8086	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	042	JS	F	266			
+7	3	3	2	2	3871	0	1313	5872	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	042	JS	F	266			
+8	3	4	1	2	15751	4	4180	20021	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	042	JS	F	266			
+9	3	3	2	3	2544	0	1935	4547	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	042	JS	F	266			
+10	3	4	2	3	7559	1	1290	11114	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	042	JS	F	266			
+11	3	1	1	3	3839	0	4205	5847	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	042	JS	F	266			
+12	3	2	1	3	1976	0	8040	3989	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	042	JS	F	266			
+13	3	2	1	4	2872	0	3491	4879	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	042	JS	F	266			
+1	1	1		1													
+1	2	1	1	1	9768	0	14818	11779	-	Effie	043	JS	F	197				
+2	2	1	1	1	8928	0	2287	10932	-	Effie	043	JS	F	197				
+3	2	1	2	1	6544	0	2387	8553	-	Effie	043	JS	F	197				
+4	2	1		1													
+1	3	1	2	1	9943	1	1758	13781	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	043	JS	F	197				
+2	3	4	1	1	7607	0	1627	9608	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	043	JS	F	197				
+3	3	3	2	1	7457	1	2010	10902	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	043	JS	F	197				
+4	3	2	1	1	10615	0	1533	12627	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	043	JS	F	197				
+5	3	1	2	2	10167	0	1521	12175	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	043	JS	F	197				
+6	3	2	1	2	5975	0	1609	7978	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	043	JS	F	197				
+7	3	3	1	2	7504	0	5611	9512	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	043	JS	F	197				
+8	3	4	2	2	5183	0	1402	7186	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	043	JS	F	197				
+9	3	4	1	3	5944	0	1442	7953	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	043	JS	F	197				
+10	3	1	2	3	7809	0	3196	9817	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	043	JS	F	197				
+11	3	3	2	3	7273	0	1488	9275	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	043	JS	F	197				
+12	3	2	1	3	5415	0	1457	7427	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	043	JS	F	197				
+1	1	1		1													
+1	2	1	1	1	3407	0	2358	5411	-	Effie	044	JS	M	206			
+2	2	1	2	1	3120	0	3997	5122	-	Effie	044	JS	M	206			
+3	2	1	1	1	4423	0	1574	6436	-	Effie	044	JS	M	206			
+4	2	1	2	1	3328	0	3177	5337	-	Effie	044	JS	M	206			
+5	2	1	1	2	4127	0	1506	6131	-	Effie	044	JS	M	206			
+6	2	1	1	2	2919	0	1633	4281	-	Effie	044	JS	M	206			
+1	3	1	1	1	17633	4	1675	20013	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	044	JS	M	206			
+2	3	3	1	1	16234	4	1625	20013	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	044	JS	M	206			
+3	3	4	2	1	5639	0	1921	7644	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	044	JS	M	206			
+4	3	2	2	1	4728	0	1834	6741	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	044	JS	M	206			
+5	3	3	2	2	5230	0	1868	7233	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	044	JS	M	206			
+6	3	4	1	2	10360	2	1638	14099	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	044	JS	M	206			
+7	3	1	2	2	6552	0	1711	8562	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	044	JS	M	206			
+8	3	2	1	2	8842	2	1525	12041	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	044	JS	M	206			
+9	3	1	1	3	17507	5	1600	20014	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	044	JS	M	206			
+10	3	3	2	3	3728	0	1697	5732	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	044	JS	M	206			
+11	3	2	2	3	3406	0	1252	5411	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	044	JS	M	206			
+12	3	4	1	3	11219	3	2848	14617	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	044	JS	M	206			
+1	1	1		1													
+1	2	1	2	1	53315	1	1652	55709	-	Effie	045	JS	F	254			
+1	3	2	1	1	19881	2	10158	20010	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	045	JS	F	254			
+2	3	3	2	1	19800	1	1618	20023	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	045	JS	F	254			
+3	3	1	2	1	19135	3	1574	20016	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	045	JS	F	254			
+4	3	4	1	1	5800	1	1406	8868	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	045	JS	F	254			
+5	3	3	2	2	3544	1	1483	6319	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	045	JS	F	254			
+6	3	2	1	2	1760	0	1305	3771	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	045	JS	F	254			
+7	3	4	1	2	1536	0	1474	3539	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	045	JS	F	254			
+8	3	1	2	2	7688	0	1685	9701	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	045	JS	F	254			
+9	3	4	2	3	2232	0	1595	4243	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	045	JS	F	254			
+10	3	1	1	3	5896	0	2280	7902	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	045	JS	F	254			
+11	3	2	2	3	4976	0	2561	6978	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	045	JS	F	254			
+12	3	3	1	3	2862	0	2181	4866	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	045	JS	F	254			
+13	3	2	2	4	3162	0	2186	5169	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	045	JS	F	254			
+14	3	4	2	4	2608	0	1548	4612	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	045	JS	F	254			
+1	1	1		1													
+1	2	1	2	1	50360	7	2078	56451	-	Effie	046	JS		0			
+1	3	2	2	1	14279	4	1344	18938	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	046	JS		0			
+2	3	4	2	1	19790	1	2508	20008	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	046	JS		0			
+3	3	3	1	1	9760	0	22937	11769	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	046	JS		0			
+4	3	1	1	1	18154	4	3944	20015	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	046	JS		0			
+5	3	2	2	2	6384	1	1765	10279	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	046	JS		0			
+6	3	4	1	2	10664	1	1688	14125	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	046	JS		0			
+7	3	3	2	2	4614	0	1201	6619	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	046	JS		0			
+8	3	1	1	2	13081	0	2190	15088	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	046	JS		0			
+9	3	2	1	3	6944	0	2218	8946	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	046	JS		0			
+10	3	1	2	3	4487	0	1329	6497	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	046	JS		0			
+11	3	3	2	3	3336	0	1458	5345	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	046	JS		0			
+12	3	4	1	3	14302	3	11788	20023	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	046	JS		0			
+1	1	1		1													
+1	2	1	2	1	43689	2	8410	47121	-	Effie	047	JS	M	224			
+2	2	1		1													
+1	3	2	1	1	14757	3	1524	18336	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	047	JS	M	224			
+2	3	3	2	1	10991	1	7614	13497	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	047	JS	M	224			
+3	3	4	1	1	9736	1	1215	12525	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	047	JS	M	224			
+4	3	1	2	1	6847	1	1319	9865	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	047	JS	M	224			
+5	3	2	1	2	5758	2	1353	8866	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	047	JS	M	224			
+6	3	3	2	2	4103	1	1215	7760	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	047	JS	M	224			
+7	3	1	2	2	8472	2	1153	11269	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	047	JS	M	224			
+8	3	4	1	2	7621	0	2649	9632	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	047	JS	M	224			
+9	3	2	2	3	4032	1	1461	6879	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	047	JS	M	224			
+10	3	4	1	3	6504	0	1552	8510	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	047	JS	M	224			
+11	3	3	2	3	5296	0	1716	7300	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	047	JS	M	224			
+12	3	1	1	3	7135	1	1251	10754	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	047	JS	M	224			
+1	1	1		1													
+1	2	1	2	1	10029	3	2141	15834	-	Effie	048	DB	m	220	L2_8		
+2	2	1	1	1	2705	0	1896	4707	-	Effie	048	DB	m	220	L2_8		
+3	2	1	2	1	5120	2	1767	8874	-	Effie	048	DB	m	220	L2_8		
+4	2	1	1	1	2383	0	1601	4396	-	Effie	048	DB	m	220	L2_8		
+5	2	1	1	2	2047	1	1502	4139	-	Effie	048	DB	m	220	L2_8		
+6	2	1		2													
+1	3	4	2	1	6761	3	1792	12063	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	048	DB	m	220	L2_8		
+2	3	3	1	1	6220	2	1655	10394	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	048	DB	m	220	L2_8		
+3	3	1	1	1	3247	0	1523	5255	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	048	DB	m	220	L2_8		
+4	3	2	2	1	3048	0	1633	5061	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	048	DB	m	220	L2_8		
+5	3	3	1	2	7239	2	1533	10833	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	048	DB	m	220	L2_8		
+6	3	4	2	2	14911	6	1866	20023	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	048	DB	m	220	L2_8		
+7	3	1	2	2	1343	0	1826	3345	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	048	DB	m	220	L2_8		
+8	3	2	1	2	5671	0	1409	7681	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	048	DB	m	220	L2_8		
+9	3	4	1	3	3969	0	1664	5975	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	048	DB	m	220	L2_8		
+10	3	3	1	3	4663	0	1402	6673	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	048	DB	m	220	L2_8		
+11	3	1	2	3	7678	2	1625	12579	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	048	DB	m	220	L2_8		
+12	3	2	2	3	1871	1	1752	5269	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	048	DB	m	220	L2_8		
+13	3	1	2	4	1273	0	1753	3286	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	048	DB	m	220	L2_8		
+14	3	2	1	4	14080	4	1286	20016	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	048	DB	m	220	L2_8		
+1	1	1		1													
+1	2	1	2	1	20271	4	2168	27667	-	Effie	effie_049	AM/RB	M	217			
+2	2	1	2	1	8384	1	1791	11508	-	Effie	effie_049	AM/RB	M	217			
+3	2	1	1	1	3160	0	1802	5162	-	Effie	effie_049	AM/RB	M	217			
+4	2	1	1	1	0	0	0	0	-	Effie	effie_049	AM/RB	M	217			
+1	3	1	2	1	11313	0	1983	13315	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	effie_049	AM/RB	M	217			
+2	3	3	2	1	3832	0	1394	5836	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	effie_049	AM/RB	M	217			
+3	3	2	1	1	8302	1	4862	12016	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	effie_049	AM/RB	M	217			
+4	3	4	1	1	8568	0	1968	10576	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	effie_049	AM/RB	M	217			
+5	3	4	2	2	559	1	5479	2614	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	effie_049	AM/RB	M	217			
+6	3	2	1	2	3541	0	1338	5546	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	effie_049	AM/RB	M	217			
+7	3	1	2	2	2112	0	1908	4122	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	effie_049	AM/RB	M	217			
+8	3	3	1	2	1177	0	15069	3186	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	effie_049	AM/RB	M	217			
+9	3	3	1	3	0	0	0	0	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	effie_049	AM/RB	M	217			
+1	1	1		1													
+1	2	1	2	1	9064	2	11575	13038	-	Effie	effie_050	rb/ek	f	201			
+2	2	1	2	1	4057	0	4264	6063	-	Effie	effie_050	rb/ek	f	201			
+3	2	1	1	1	4502	0	1513	6506	-	Effie	effie_050	rb/ek	f	201			
+4	2	1	1	1	1007	0	2300	1491	-	Effie	effie_050	rb/ek	f	201			
+1	3	1	1	1	2480	0	2091	4488	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	effie_050	rb/ek	f	201			
+2	3	4	2	1	3377	0	1944	5382	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	effie_050	rb/ek	f	201			
+3	3	3	1	1	3703	0	1435	5709	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	effie_050	rb/ek	f	201			
+4	3	2	2	1	2919	0	3868	4921	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	effie_050	rb/ek	f	201			
+5	3	3	1	2	4912	1	1571	7894	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	effie_050	rb/ek	f	201			
+6	3	4	1	2	1927	0	2212	3929	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	effie_050	rb/ek	f	201			
+7	3	2	2	2	2126	0	8266	4135	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	effie_050	rb/ek	f	201			
+8	3	1	2	2	4349	0	5706	6362	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	effie_050	rb/ek	f	201			
+9	3	3	2	3	2366	0	4586	4379	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	effie_050	rb/ek	f	201			
+10	3	4	1	3	4536	0	6796	6546	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	effie_050	rb/ek	f	201			
+11	3	2	2	3	3305	2	10584	6616	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	effie_050	rb/ek	f	201			
+12	3	1	1	3	1760	0	1796	3765	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	effie_050	rb/ek	f	201			
+13	3	4	1	4	1378	0	1637	3389	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	effie_050	rb/ek	f	201			
+14	3	1	1	4	9824	0	50635	11826	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	effie_050	rb/ek	f	201			
+1	1	1		1													
+1	2	1	2	1	47692	7	966	57501	-	Effie	051	HW	m	232			
+2	2	1		1													
+1	3	4	1	1	8402	2	1156	13867	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	051	HW	m	232			
+2	3	1	2	1	12394	7	1822	20012	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	051	HW	m	232			
+3	3	2	1	1	9997	1	3128	13882	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	051	HW	m	232			
+4	3	3	2	1	11057	1	1658	14501	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	051	HW	m	232			
+5	3	1	1	2	6262	0	3050	8269	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	051	HW	m	232			
+6	3	3	1	2	3881	0	1688	5892	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	051	HW	m	232			
+7	3	2	2	2	18537	3	2539	20015	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	051	HW	m	232			
+8	3	4	2	2	6664	0	997	8673	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	051	HW	m	232			
+9	3	3	2	3	8600	1	974	12103	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	051	HW	m	232			
+10	3	1	1	3	6688	0	4658	8697	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	051	HW	m	232			
+11	3	2	2	3	5440	0	1527	7452	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	051	HW	m	232			
+12	3	4	1	3	5743	1	1555	9311	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	051	HW	m	232			
+1	1	1		1													
+1	2	1	2	1	17191	0	13745	19201	-	Effie	effie_052 	PB	F	200	PB		
+2	2	1	1	1	7256	0	4970	9260	-	Effie	effie_052 	PB	F	200	PB		
+3	2	1	1	1	1398	0	3536	1654	-	Effie	effie_052 	PB	F	200	PB		
+1	3	3	1	1	4423	0	1699	6430	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	effie_052 	PB	F	200	PB		
+2	3	4	2	1	8000	0	2661	10005	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	effie_052 	PB	F	200	PB		
+3	3	1	2	1	3391	0	2087	5400	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	effie_052 	PB	F	200	PB		
+4	3	2	1	1	19696	1	16074	20006	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	effie_052 	PB	F	200	PB		
+5	3	4	2	2	18963	1	1869	20024	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	effie_052 	PB	F	200	PB		
+6	3	3	2	2	6697	0	1832	8707	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	effie_052 	PB	F	200	PB		
+7	3	1	1	2	16376	4	1298	20014	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	effie_052 	PB	F	200	PB		
+8	3	2	1	2	4887	0	4360	6898	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	effie_052 	PB	F	200	PB		
+9	3	2	1	3	13971	3	4652	19830	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	effie_052 	PB	F	200	PB		
+10	3	1	2	3	19366	1	1904	20015	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	effie_052 	PB	F	200	PB		
+11	3	3	2	3	4288	0	1951	6295	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	effie_052 	PB	F	200	PB		
+12	3	4	1	3	18251	2	2836	20021	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	effie_052 	PB	F	200	PB		
+1	1	1		1													
+1	2	1	1	1	28162	3	22764	35519	-	Effie	053	AM	F	195			
+2	2	1		1													
+1	3	4	2	1	9969	0	2084	11974	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	053	AM	F	195			
+2	3	2	1	1	18530	3	4531	20014	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	053	AM	F	195			
+3	3	1	2	1	8119	0	2635	10123	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	053	AM	F	195			
+4	3	3	1	1	18536	1	2420	20006	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	053	AM	F	195			
+5	3	4	2	2	17578	2	4988	20016	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	053	AM	F	195			
+6	3	1	1	2	16792	2	8737	20014	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	053	AM	F	195			
+7	3	3	1	2	19320	1	4563	20017	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	053	AM	F	195			
+8	3	2	2	2	7218	0	2069	9227	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	053	AM	F	195			
+9	3	4	1	3	18657	2	4976	20012	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	053	AM	F	195			
+10	3	3	2	3	4687	0	1968	6696	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	053	AM	F	195			
+11	3	1	1	3	11607	1	1918	14369	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	053	AM	F	195			
+12	3	2	2	3	4000	0	4347	6008	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	053	AM	F	195			
+1	1	1		1													
+1	2	1	1	1	14567	1	1957	17788	-	Effie	054	ek	F	251			
+2	2	1	1	1	10136	2	2436	14239	-	Effie	054	ek	F	251			
+3	2	1	2	1	7055	0	2141	9059	-	Effie	054	ek	F	251			
+4	2	1		1													
+1	3	2	1	1	18444	3	1607	20012	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	054	ek	F	251			
+2	3	3	1	1	16944	5	1385	20012	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	054	ek	F	251			
+3	3	4	2	1	5584	0	1778	7594	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	054	ek	F	251			
+4	3	1	2	1	4370	0	2777	6381	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	054	ek	F	251			
+5	3	1	1	2	3925	0	2522	5938	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	054	ek	F	251			
+6	3	3	1	2	4487	2	2239	8078	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	054	ek	F	251			
+7	3	2	2	2	6002	2	1930	10338	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	054	ek	F	251			
+8	3	4	2	2	5841	2	1967	9940	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	054	ek	F	251			
+9	3	3	2	3	2194	1	1672	5110	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	054	ek	F	251			
+10	3	2	1	3	3406	1	1544	6281	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	054	ek	F	251			
+11	3	1	2	3	8376	2	1135	13722	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	054	ek	F	251			
+12	3	4	1	3	13487	2	2091	17284	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	054	ek	F	251			
+1	1	1		1													
+1	2	1	1	1	8336	1	5784	11511	-	Effie	Effie_055 	PB	F	190			
+2	2	1	2	1	6785	0	5636	8797	-	Effie	Effie_055 	PB	F	190			
+3	2	1	2	1	664	1	1279	2697	-	Effie	Effie_055 	PB	F	190			
+4	2	1	1	1	7319	2	2474	8131	-	Effie	Effie_055 	PB	F	190			
+1	3	2	1	1	8737	1	1768	12203	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	Effie_055 	PB	F	190			
+2	3	4	2	1	6215	0	4338	8221	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	Effie_055 	PB	F	190			
+3	3	3	2	1	6544	0	1608	8548	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	Effie_055 	PB	F	190			
+4	3	1	1	1	10103	2	1901	14417	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	Effie_055 	PB	F	190			
+5	3	2	1	2	4633	2	1705	7309	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	Effie_055 	PB	F	190			
+6	3	4	2	2	16076	3	3784	20012	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	Effie_055 	PB	F	190			
+7	3	1	1	2	4487	1	3393	7589	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	Effie_055 	PB	F	190			
+8	3	3	2	2	2222	0	1493	4229	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	Effie_055 	PB	F	190			
+9	3	4	2	3	9800	3	1233	15502	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	Effie_055 	PB	F	190			
+10	3	2	1	3	5152	0	4239	7157	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	Effie_055 	PB	F	190			
+11	3	3	1	3	3864	1	1906	7341	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	Effie_055 	PB	F	190			
+12	3	1	2	3	9025	0	4690	11039	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	Effie_055 	PB	F	190			
+1	1	1		1													
+1	2	1	2	1	9737	0	7206	11743	-	Effie	056	AM	M	205			
+2	2	1	1	1	6696	0	4944	8697	-	Effie	056	AM	M	205			
+3	2	1	2	1	12576	0	2239	14580	-	Effie	056	AM	M	205			
+4	2	1		1													
+1	3	1	1	1	8201	0	1938	10205	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	056	AM	M	205			
+2	3	2	2	1	7878	1	2097	10828	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	056	AM	M	205			
+3	3	4	2	1	15593	3	3493	20012	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	056	AM	M	205			
+4	3	3	1	1	6151	0	2168	8163	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	056	AM	M	205			
+5	3	4	2	2	5177	1	1976	8014	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	056	AM	M	205			
+6	3	2	1	2	3976	0	1703	5978	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	056	AM	M	205			
+7	3	1	2	2	5271	0	2078	7281	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	056	AM	M	205			
+8	3	3	1	2	7742	1	1779	10748	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	056	AM	M	205			
+9	3	4	1	3	4919	0	4434	6932	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	056	AM	M	205			
+10	3	2	1	3	7407	1	2921	10761	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	056	AM	M	205			
+11	3	1	2	3	7767	0	1766	9769	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	056	AM	M	205			
+12	3	3	2	3	2958	0	1810	4971	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	056	AM	M	205			
+1	1	1		1													
+1	2	1	2	1	5815	0	3110	7823	-	Effie	057	HW	F	195	L1_2		
+2	2	1	1	1	28088	0	3790	30099	-	Effie	057	HW	F	195	L1_2		
+3	2	1	2	1	4438	0	2349	5400	-	Effie	057	HW	F	195	L1_2		
+1	3	2	2	1	5815	0	4949	7829	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	057	HW	F	195	L1_2		
+2	3	4	1	1	6007	0	5722	8016	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	057	HW	F	195	L1_2		
+3	3	1	1	1	4383	0	2870	6387	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	057	HW	F	195	L1_2		
+4	3	3	2	1	17546	4	3311	20015	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	057	HW	F	195	L1_2		
+5	3	2	2	2	14664	4	4203	19862	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	057	HW	F	195	L1_2		
+6	3	4	1	2	2879	0	2978	4885	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	057	HW	F	195	L1_2		
+7	3	1	2	2	4112	1	2150	6596	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	057	HW	F	195	L1_2		
+8	3	3	1	2	2152	0	7973	4155	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	057	HW	F	195	L1_2		
+9	3	1	1	3	2711	0	2480	4720	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	057	HW	F	195	L1_2		
+10	3	4	2	3	7080	2	3622	11411	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	057	HW	F	195	L1_2		
+11	3	2	1	3	2176	0	6427	4187	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	057	HW	F	195	L1_2		
+12	3	3	2	3	3769	1	4443	6870	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	057	HW	F	195	L1_2		
+1	1	1		1													
+1	2	1	2	1	22095	1	2637	25485	-	Effie	058		f	238	L1_8		
+2	2	1	2	1	13847	0	1758	15859	-	Effie	058		f	238	L1_8		
+3	2	1		1													
+4	2	1	1	1	3552	0	9610	4694	-	Effie	058		f	238	L1_8		
+1	3	2	2	1	19877	3	1776	20016	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	058		f	238	L1_8		
+2	3	4	2	1	19234	3	1514	20020	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	058		f	238	L1_8		
+3	3	3	1	1	5072	0	11523	7076	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	058		f	238	L1_8		
+4	3	1	1	1	5887	0	3961	7890	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	058		f	238	L1_8		
+5	3	3	2	2	4560	1	2921	7434	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	058		f	238	L1_8		
+6	3	1	2	2	10486	3	1368	15550	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	058		f	238	L1_8		
+7	3	2	1	2	4559	0	3667	6561	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	058		f	238	L1_8		
+8	3	4	1	2	3639	0	1544	5645	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	058		f	238	L1_8		
+9	3	3	2	3	1912	0	3072	3923	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	058		f	238	L1_8		
+10	3	2	2	3	1914	0	2830	3916	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	058		f	238	L1_8		
+11	3	1	1	3	2480	0	991	4483	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	058		f	238	L1_8		
+12	3	4	1	3	2969	0	2663	4970	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	058		f	238	L1_8		
+13	3	3	2	4	1328	0	3010	3341	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	058		f	238	L1_8		
+14	3	2	2	4	1199	0	2354	3207	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	058		f	238	L1_8		
+1	1	1		1													
+1	2	1	2	1	7055	1	1937	9762	-	Effie	059	js	f	256	baby didn't make it through the study; too squirmy		
+2	2	1	2	1	9014	1	5259	11359	-	Effie	059	js	f	256	baby didn't make it through the study; too squirmy		
+3	2	1	1	1	4832	0	1825	6834	-	Effie	059	js	f	256	baby didn't make it through the study; too squirmy		
+4	2	1	1	1	3776	0	1505	5787	-	Effie	059	js	f	256	baby didn't make it through the study; too squirmy		
+5	2	1	2	2	0	0	0	0	-	Effie	059	js	f	256	baby didn't make it through the study; too squirmy		
+1	3	4	2	1	8175	0	12870	10180	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	059	js	f	256	baby didn't make it through the study; too squirmy		
+2	3	1	1	1	1455	0	1409	3469	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	059	js	f	256	baby didn't make it through the study; too squirmy		
+3	3	3	1	1	4603	1	1312	7543	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	059	js	f	256	baby didn't make it through the study; too squirmy		
+4	3	2	2	1	19302	0	8207	20006	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	059	js	f	256	baby didn't make it through the study; too squirmy		
+5	3	1	2	2	1736	0	976	3746	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	059	js	f	256	baby didn't make it through the study; too squirmy		
+6	3	2	1	2	8485	0	1519	10490	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	059	js	f	256	baby didn't make it through the study; too squirmy		
+7	3	3	2	2	1439	0	4252	3449	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	059	js	f	256	baby didn't make it through the study; too squirmy		
+8	3	4	1	2	9520	0	1527	11522	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	059	js	f	256	baby didn't make it through the study; too squirmy		
+9	3	4	1	3	19774	1	1462	20016	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	059	js	f	256	baby didn't make it through the study; too squirmy		
+10	3	3	2	3	6305	2	22673	9363	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	059	js	f	256	baby didn't make it through the study; too squirmy		
+11	3	1	1	3	1401	0	6497	3414	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	059	js	f	256	baby didn't make it through the study; too squirmy		
+12	3	2	2	3	1376	0	6151	3389	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	059	js	f	256	baby didn't make it through the study; too squirmy		
+13	3	1	2	4	6095	0	1456	8103	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	059	js	f	256	baby didn't make it through the study; too squirmy		
+14	3	1	2	4	0	0	0	0	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	059	js	f	256	baby didn't make it through the study; too squirmy		
+15	3	3	2	4	0	0	0	0	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	059	js	f	256	baby didn't make it through the study; too squirmy		
+1	1	1		1													
+1	2	1	2	1	8591	2	1529	13019	-	Effie	effie_060 	PB	M	236			
+2	2	1	1	1	5432	0	1684	7442	-	Effie	effie_060 	PB	M	236			
+3	2	1	2	1	4847	0	1794	6853	-	Effie	effie_060 	PB	M	236			
+4	2	1	1	1	3775	0	1455	5786	-	Effie	effie_060 	PB	M	236			
+5	2	1	2	2	0	0	0	0	-	Effie	effie_060 	PB	M	236			
+1	3	1	1	1	11977	1	1367	14976	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	effie_060 	PB	M	236			
+2	3	3	1	1	15087	3	1471	19601	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	effie_060 	PB	M	236			
+3	3	2	2	1	3841	0	3625	5847	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	effie_060 	PB	M	236			
+4	3	4	2	1	8192	1	1329	11180	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	effie_060 	PB	M	236			
+5	3	1	1	2	15934	2	1362	20014	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	effie_060 	PB	M	236			
+6	3	3	2	2	6056	1	1382	9010	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	effie_060 	PB	M	236			
+7	3	2	1	2	9216	2	1330	13685	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	effie_060 	PB	M	236			
+8	3	4	2	2	4582	1	1476	7969	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	effie_060 	PB	M	236			
+9	3	3	1	3	13454	4	1402	20013	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	effie_060 	PB	M	236			
+10	3	2	2	3	3687	1	1709	7176	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	effie_060 	PB	M	236			
+11	3	1	1	3	3641	1	1328	6906	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	effie_060 	PB	M	236			
+12	3	4	2	3	13711	7	1334	20012	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	effie_060 	PB	M	236			
+1	1	1		1													
+1	2	1	1	1	3368	0	2378	5380	-	Effie	061	js	m	194			
+2	2	1	2	1	11520	0	1963	13524	-	Effie	061	js	m	194			
+3	2	1	2	1	4086	0	6312	6093	-	Effie	061	js	m	194			
+4	2	1	1	1	7191	0	3510	8270	-	Effie	061	js	m	194			
+1	3	3	2	1	174	0	20488	2181	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	061	js	m	194			
+2	3	1	2	1	6624	0	11754	8631	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	061	js	m	194			
+3	3	4	1	1	11616	2	2284	16447	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	061	js	m	194			
+4	3	2	1	1	6703	0	1875	8705	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	061	js	m	194			
+5	3	1	2	2	4782	0	5402	6795	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	061	js	m	194			
+6	3	2	2	2	6681	0	13211	8686	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	061	js	m	194			
+7	3	4	1	2	7032	2	878	11081	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	061	js	m	194			
+8	3	3	1	2	9397	1	1663	12060	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	061	js	m	194			
+9	3	3	1	3	5366	1	1440	8334	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	061	js	m	194			
+10	3	2	1	3	2832	0	1498	4841	C:\Experiment\Stimuli\Effie\Audio\sarel_test.wav	Effie	061	js	m	194			
+11	3	4	2	3	3280	0	9599	5290	C:\Experiment\Stimuli\Effie\Audio\manu_test.wav	Effie	061	js	m	194			
+12	3	1	2	3	1694	0	3690	3697	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	061	js	m	194			
+13	3	3	2	4	1792	0	2664	3795	C:\Experiment\Stimuli\Effie\Audio\boskot_test.wav	Effie	061	js	m	194			
+14	3	1	1	4	9298	3	1678	16173	C:\Experiment\Stimuli\Effie\Audio\kita_test.wav	Effie	061	js	m	194			
