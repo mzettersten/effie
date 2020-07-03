@@ -6,8 +6,8 @@ d <- read_csv(here("..","data","processed_data","effie_test_data_processed.csv")
   rename(include_yn=`Include?`)
 
 #read in data check file
-data_check <- read_csv(here("..","data_check","MASTER_Effie_Coding_trialByTrialCheck_updated.csv")) %>%
-  select(-Block,-BlockTrialNumber) %>%
+data_check <- read_csv(here("..","data_check","MASTER_Effie_Coding_trialByTrialCheck_final.csv")) %>%
+  select(-Block,-BlockTrialNumber,-additional_notes) %>%
   rename(Trial=TrialNumber, participant_id=subjCode)
 
 #join data an data_check

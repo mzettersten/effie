@@ -8,6 +8,7 @@ library(gghalves)
 library(wesanderson)
 library(psych)
 library(TOSTER)
+library(BayesFactor)
 
 #### DESCRIPTIVES ####
 
@@ -123,7 +124,8 @@ ggplot(subj_novel_familiar,aes(x=novel_familiar,y=mean_looking_time, fill=novel_
         strip.text.x = element_text(size = 16,face="bold"))
 
 ggsave(here("..","figures","main_results.pdf"),width=7,height=6)
-  
+ggsave(here("..","figures","main_results.png"),width=7,height=6)
+
 
 #### LINEAR MIXED-EFFECTS ANALYSIS ####
 #compute log looking
@@ -489,6 +491,23 @@ TOSTtwo(
   high_eqbound_d=0.5)
 dev.off()
 #inconclusive
+
+#### Not pre-registered: using Bayesian tests to quantify evidence for the null ####
+
+#### 1) Effect within each condition
+
+## 16 Occurrences Condition
+#evidence for the null hypothesis
+1/ttestBF(filter(subj_diff,frequency_condition=="16 Occurrences")$diff_looking_time,mu=0)
+
+## 4 Occurrences Condition
+#evidence for the null hypothesis
+1/ttestBF(filter(subj_diff,frequency_condition=="4 Occurrences")$diff_looking_time,mu=0)
+
+#### 2) Condition difference
+#evidence for the null hypothesis
+1/ttestBF(filter(subj_diff,frequency_condition=="4 Occurrences")$diff_looking_time,filter(subj_diff,frequency_condition=="16 Occurrences")$diff_looking_time)
+
 
 #### EXPLORATORY PLOTS ####
 
