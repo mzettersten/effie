@@ -29,10 +29,20 @@ sample_properties <- d %>%
   )
 sample_properties
 
+
+## describe general test trial looking length ##
 ggplot(d,aes(x = Trial,y=looking_time))+
   geom_point()+
   geom_smooth()+
   geom_hline(yintercept=2000)
+
+ggplot(d,aes(x = Trial,y=looking_time))+
+  geom_violin(aes(x = as.factor(Trial)))+
+  geom_point(alpha=0.5)+
+  geom_smooth()+
+  geom_hline(yintercept=2000)
+ggsave(here("..","figures","distribution_test_looking.pdf"),width=7,height=6)
+ggsave(here("..","figures","distribution_test_looking.png"),width=7,height=6)
   
 
 ##### summarize within subject ####
